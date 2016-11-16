@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xmlns:mml="http://www.w3.org/1998/Math/MathML"
          xml:lang="en"
-         xsi:noNamespaceSchemaLocation="../../jats/JATS-Publishing-1-1d3-MathML3-XSD/JATS-Publishing-1-1d3-MathML3-XSD/JATS-journalpublishing1-mathml3.xsd"
+         xsi:noNamespaceSchemaLocation="../../../jats/JATS-Publishing-1-1d3-MathML3-XSD/JATS-Publishing-1-1d3-MathML3-XSD/JATS-journalpublishing1-mathml3.xsd"
          article-type="research-article">
    <front>
       <journal-meta>
@@ -107,7 +107,7 @@
    </front>
    <body>
       <p>In Norway, there are about 105,000 nurses and about 67,000 primary school teachers. Together, they constitute about 7% of all persons employed in Norway (<xref ref-type="bibr" rid="SSB2016">Statistisk sentralbyrå [SSB], 2016</xref>). In addition, there are about 40,000 students qualifying to become professionals in these professions. Cross-sectional data have shown that nursing students, nurses, and teachers experience more psychological distress than the general population. The two largest welfare professions in Norway have, however, never been compared in longitudinal study that assesses their psychological distress.</p>
-      <p>Cross-sectional studies on psychological distress, measured with well-validated methods, show that nursing students, nurses, and teachers experience more psychological distress than the general population (<xref ref-type="bibr" rid="BTWLIM2013">Baba, Tourigny, Wang, Lituchy, &amp; Inés Monserrat, 2013</xref>; <xref ref-type="bibr" rid="MMKS2013">Mulholland, McKinlay, &amp; Sproule, 2013</xref>). Apart from the personal burdens of anxiety, depression, and low self-esteem, high psychological distress can also contribute to impaired academic performance, attrition from work, and cynicism and a lack of empathy when working with patients or pupils (<xref ref-type="bibr" rid="DTS2005">Dyrbye, Thomas, &amp; Shanafelt, 2005</xref>; <xref ref-type="bibr" rid="LMP2010">Le Maistre &amp; Pare, 2010</xref>; <xref ref-type="bibr" rid="SH2008">Schwarzer &amp; Hallum, 2008</xref>; <xref ref-type="bibr" rid="USJGWP2010">Urwin et al., 2010</xref>). Psychological distress may also make it difficult to cope with the crises that students and young professionals face in their personal, educational, and professional lives. At a neuropsychological level, high psychological distress can inhibit important processes such as attention and learning (<xref ref-type="bibr" rid="UE2010">Ursin &amp; Eriksen, 2010</xref>). Therefore, sustained high psychological distress may be a threat to the acquisition of the theoretical, pedagogical and clinical skills necessary to keep up with the development of knowledge within these two welfare professions (<xref ref-type="bibr" rid="DTS2005">Dyrbye et al., 2005</xref>). Similar findings are presented in research on the development of lay helpers, students, and young professionals in the helping disciplines (<xref ref-type="bibr" rid="RS2006">Rønnestad &amp; Skovholt, 2006</xref>; <xref ref-type="bibr" rid="    2013">2013</xref>; <xref ref-type="bibr" rid="S2005">Skovholt, 2005</xref>; <xref ref-type="bibr" rid="STM2014">Skovholt &amp; Trotter-Mathison, 2014</xref>). They found that anxiety was common during the study time, and represents a risk of stagnation in professional development. Increased psychological distress is also associated with increased sick leave (<xref ref-type="bibr" rid="NBMMCDR2012">Nielsen et al., 2012</xref>; <xref ref-type="bibr" rid="NHH2001">Nystuen, Hagen, &amp; Herrin, 2001</xref>). In a recent study, individuals working in the so-called “life professions” are more likely to be at risk for a disability pension in Norway (<xref ref-type="bibr" rid="T2013">Tufte, 2013</xref>). Nurses had a relative risk of 3.9 (hazard ratio) compared with engineers (1.0).The corresponding risk for teachers was 4.7.</p>
+      <p>Cross-sectional studies on psychological distress, measured with well-validated methods, show that nursing students, nurses, and teachers experience more psychological distress than the general population (<xref ref-type="bibr" rid="BTWLIM2013">Baba, Tourigny, Wang, Lituchy, &amp; Inés Monserrat, 2013</xref>; <xref ref-type="bibr" rid="MMKS2013">Mulholland, McKinlay, &amp; Sproule, 2013</xref>). Apart from the personal burdens of anxiety, depression, and low self-esteem, high psychological distress can also contribute to impaired academic performance, attrition from work, and cynicism and a lack of empathy when working with patients or pupils (<xref ref-type="bibr" rid="DTS2005">Dyrbye, Thomas, &amp; Shanafelt, 2005</xref>; <xref ref-type="bibr" rid="LMP2010">Le Maistre &amp; Pare, 2010</xref>; <xref ref-type="bibr" rid="SH2008">Schwarzer &amp; Hallum, 2008</xref>; <xref ref-type="bibr" rid="USJGWP2010">Urwin et al., 2010</xref>). Psychological distress may also make it difficult to cope with the crises that students and young professionals face in their personal, educational, and professional lives. At a neuropsychological level, high psychological distress can inhibit important processes such as attention and learning (<xref ref-type="bibr" rid="UE2010">Ursin &amp; Eriksen, 2010</xref>). Therefore, sustained high psychological distress may be a threat to the acquisition of the theoretical, pedagogical and clinical skills necessary to keep up with the development of knowledge within these two welfare professions (<xref ref-type="bibr" rid="DTS2005">Dyrbye et al., 2005</xref>). Similar findings are presented in research on the development of lay helpers, students, and young professionals in the helping disciplines (<xref ref-type="bibr" rid="RS2012">Rønnestad &amp; Skovholt, 2012</xref>; <xref ref-type="bibr" rid="S2005">Skovholt, 2005</xref>; <xref ref-type="bibr" rid="STM2014">Skovholt &amp; Trotter-Mathison, 2014</xref>). They found that anxiety was common during the study time, and represents a risk of stagnation in professional development. Increased psychological distress is also associated with increased sick leave (<xref ref-type="bibr" rid="NBMMCDR2012">Nielsen et al., 2012</xref>; <xref ref-type="bibr" rid="NHH2001">Nystuen, Hagen, &amp; Herrin, 2001</xref>). In a recent study, individuals working in the so-called “life professions” are more likely to be at risk for a disability pension in Norway (<xref ref-type="bibr" rid="T2013">Tufte, 2013</xref>). Nurses had a relative risk of 3.9 (hazard ratio) compared with engineers (1.0).The corresponding risk for teachers was 4.7.</p>
       <p>As far as we know, teacher’s long-term psychological distress has never been studied. In light of this, the study brings new knowledge to the literature on these professions.</p>
       <p>So, why compare nurses and teachers with regard to psychological distress? First, because both groups are in relational occupations (<xref ref-type="bibr" rid="HA2007">Harris &amp; Adams, 2007</xref>; <xref ref-type="bibr" rid="KS2012">Klette &amp; Smeby, 2012</xref>). They are thereby important by virtue of themselves as persons working in relationships (<xref ref-type="bibr" rid="N2016">Nesje, 2016</xref>; <xref ref-type="bibr" rid="RS2012">Ronnestad &amp; Skovholt, 2012</xref>). Second, they have comprehensive and important (albeit different) roles in the welfare state; for example, 1.8 million persons utilize somatic health care each year, and Norwegian kindergartens and elementary schools include approximately 1 million children (<xref ref-type="bibr" rid="SSB2011">SSB, 2011</xref>).</p>
    	<p>We estimate for the development of psychological distress over nine years among nurses and teachers. If their psychological distress scores are higher than estimated in the norm population it may, according to Dyrbye et al., (<xref ref-type="bibr" rid="DTS2005">2005</xref>), be problematic in their work with patients and children. Also, crossing the threshold between education and work may create gaps between theoretical knowledge learned in college and more practical knowledge expected from young professional nurses and teachers. Linking “a practice shock” to a possible increase in psychological distress have, to the best of our knowledge, not been done with empirical data for these two groups. If there exists a practice shock among the two groups of young health professionals, it is our assumption that their psychological distress will be influenced negatively.</p>
@@ -118,7 +118,7 @@
          <!-- sec lvl 3 begin -->
          <sec>
             <title>Psychological distress among nurses and nursing students</title>
-            <p>Several cross-sectional studies indicate that nurses worldwide belong to a high-stress occupation (<xref ref-type="bibr" rid="BTWLI2013">Baba et al., 2013</xref>; <xref ref-type="bibr" rid="BCVD1998">Bourbonnais, Comeau, Vezina, &amp; Dion, 1998</xref>; <xref ref-type="bibr" rid="LL2001">Lambert &amp; Lambert, 2001</xref>; <xref ref-type="bibr" rid="MGRB2003">McGrath, Reid, &amp; Boore, 2003</xref>; <xref ref-type="bibr" rid="PDMLB2011">Pisanti, van der Doef, Maes, Lazzari, &amp; Bertini, 2011</xref>). Assessed with General Health Questionnaire between 27% and 32% of the nurses in these studies scored on a case level which is markedly higher than in the general population (15%-20%) (<xref ref-type="bibr" rid="KHMØ2013">Knudsen, Harvey, Mykletun, &amp; Øverland, 2013</xref>).</p>
+            <p>Several cross-sectional studies indicate that nurses worldwide belong to a high-stress occupation (<xref ref-type="bibr" rid="BTWLIM2013">Baba et al., 2013</xref>; <xref ref-type="bibr" rid="BCVD1998">Bourbonnais, Comeau, Vezina, &amp; Dion, 1998</xref>; <xref ref-type="bibr" rid="LL2001">Lambert &amp; Lambert, 2001</xref>; <xref ref-type="bibr" rid="MGRB2003">McGrath, Reid, &amp; Boore, 2003</xref>; <xref ref-type="bibr" rid="PDMLB2011">Pisanti, van der Doef, Maes, Lazzari, &amp; Bertini, 2011</xref>). Assessed with General Health Questionnaire between 27% and 32% of the nurses in these studies scored on a case level which is markedly higher than in the general population (15%-20%) (<xref ref-type="bibr" rid="KHMØ2013">Knudsen, Harvey, Mykletun, &amp; Øverland, 2013</xref>).</p>
             <p>Cross-sectional studies have also been performed with nursing students, indicating that they are at high risk of developing psychological distress (<xref ref-type="bibr" rid="CVDR2011">Christensson, Vaez, Dickman, &amp; Runeson, 2011</xref>; <xref ref-type="bibr" rid="JJ2000">Jones &amp; Johnston, 2000</xref>). Longitudinal studies have confirmed that nursing students’ psychological distress increases significantly during their education (<xref ref-type="bibr" rid="CRDV2010">Christensson, Runeson, Dickman, &amp; Vaez, 2010</xref>; <xref ref-type="bibr" rid="DWH2003">Deary, Watson, &amp; Hogston, 2003</xref>; <xref ref-type="bibr" rid="L2002">Lo, 2002</xref>; <xref ref-type="bibr" rid="NRR2009">Nerdrum, Rustoen, &amp; Ronnestad, 2009</xref>; <xref ref-type="bibr" rid="WGHGSWD2009">Watson et al., 2009</xref>).</p>
          </sec>
          <!-- sec lvl 3 end -->
@@ -182,7 +182,7 @@
                <tbody>
                   <tr>
                      <td/>
-                     <th>
+                     <th colspan="4">
                         <p>N = 1507</p>
                      </th>
                   </tr>
@@ -296,25 +296,17 @@
                      </td>
                   </tr>
                   <tr>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
+                     <td colspan="5" />
                   </tr>
                   <tr>
-                     <td>
+                     <th colspan="5">
                         <p>
                            <bold>Age </bold>(Mean/SD)</p>
-                     </td>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
+                     </th>
                   </tr>
                   <tr>
                      <th>
-                        <p>Nurses 	</p>
+                        <p>Nurses</p>
                      </th>
                      <td>
                         <p>24.0 (5.7)<sup> c</sup>
@@ -381,14 +373,10 @@
                      </th>
                   </tr>
                   <tr>
-                     <td>
+                     <th colspan="5">
                         <p>
                            <bold>GHQ-12 cases</bold> (n/%)</p>
-                     </td>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
+                     </th>
                   </tr>
                   <tr>
                      <th>
@@ -426,21 +414,13 @@
                      </td>
                   </tr>
                   <tr>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
+                     <td colspan="5" />
                   </tr>
                   <tr>
-                     <td>
+                     <th colspan="5">
                         <p>
                            <bold>GHQ-12 Likert</bold> (Mean/SD)</p>
-                     </td>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
+                     </th>
                   </tr>
                   <tr>
                      <th>
@@ -511,14 +491,10 @@
                      </th>
                   </tr>
                   <tr>
-                     <td>
+                     <th colspan="5">
                         <p>
                            <bold>GHQ-12 cases</bold> (n/%)</p>
-                     </td>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
+                     </th>
                   </tr>
                   <tr>
                      <th>
@@ -555,21 +531,13 @@
                      </td>
                   </tr>
                   <tr>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
+                     <td colspan="5" />
                   </tr>
                   <tr>
-                     <td>
+                     <th colspan="5">
                         <p>
                            <bold>GHQ-12 Likert</bold> (Mean/SD)</p>
-                     </td>
-                     <td/>
-                     <td/>
-                     <td/>
-                     <td/>
+                     </th>
                   </tr>
                   <tr>
                      <th>
@@ -820,8 +788,8 @@
       	<p>The main findings of this study are as follows: Psychological distress increased significantly in both groups while they completed their education. This finding confirms former studies that nursing students become more distressed during their education (<xref ref-type="bibr" rid="NRR2009">Nerdrum, Rustøen &amp; Rønnestad 2009</xref>; <xref ref-type="bibr" rid="NG2014">Nerdrum &amp; Geirdal 2014</xref>), while the findings regarding increasing distress among teaching students are new. Although there are few systematic studies of psychological distress that compare young professional nurses and teachers during their first years at work, it is a surprising finding that only the nurses became less distressed when they entered the workforce. The nurses appeared to improve substantially after leaving school for practical clinical work. The teachers also became somewhat less distressed, although this change was not statistically significant. The findings run contrary to the expectation that when meeting clinical (for the nurses) and pedagogical (for the teachers) “realities,” psychological distress would increase rather than decrease. However, our finding is in line with the conclusion of Caspersen and Raaen (<xref ref-type="bibr" rid="CR2014">2014</xref>) who suggest that the strength of a possible “reality shock” is not as great as previously thought.</p>
          <p>The datasets applied in the analyses confirm these changes over the nine-year period: Psychological distress increases for both groups during education, but decreases only for the nurses during the first three years of work. During the last period, from three to six years at work, both the descriptive data and the estimated data show only small and non-significant changes in psychological distress in the two groups. In this period, the study model predicted both estimated GHQ-12 mean scores and descriptive scores. The nurses scored about the same level as they did before they began their education (Figure 1). This is a lower level of psychological distress than those reported in studies of the general population in Western societies (<xref ref-type="bibr" rid="P2000">Pevalin, 2000</xref>). It is also clearly lower than the findings reported in published research from cross-sectional studies of the nursing profession. The teachers, however, did not improve after the transition to work.</p>
          <p>In our view, this study’s most important findings are the nurses’ great increase in psychological distress during nursing school, followed by an even greater reduction in psychological distress during the first years of work compared with the moderate and non-significant changes in psychological distress among teachers. The two groups are similar in age; therefore, a corresponding general life phase influence on psychological distress should also be similar. The two groups are also similar in terms of marital status. From studies of the general population, one would expect marriage/cohabitation to protect from psychological distress (<xref ref-type="bibr" rid="MK2012">Maisel &amp; Karney, 2012</xref>).</p>
-      	<p>New nursing students come from a lay helper phase and start an academic life with quite different and new demands including large amounts of reading materials, many lectures, group work, and exam preparation. At that point, nursing students are in principle in a similar situation to the teaching students. In our view, nursing students are also challenged in another way. They are expected to acquire and cope with knowledge, also research based, that is, vital to patients’ survival (<xref ref-type="bibr" rid="HBMJDUSB2014">Henoch et al., 2014</xref>; <xref ref-type="bibr" rid="LSCCWT2011">Liu et al., 2011</xref>; <xref ref-type="bibr" rid="P1985">Parkes, 1985</xref>). They meet serious illness as well as dying patients and are thoroughly trained in mastering such situations. From the descriptions of nurses’ working assignments, it is obvious that nursing students meet rather challenging situations during their education. An important effect for students in helping professions may, as described by Rønnestad and Skovholt (<xref ref-type="bibr" rid="RS2013">2013</xref>), be a high level of anxiety.</p>
-      	<p>The results show that teaching students, when beginning their education, have lower scores than the nursing students. Two explanations are possible for this discrepancy. At both time points, a number of men among the teachers is clearly higher than among the nurses. It is known from former research that males score lower in psychological distress than women (<xref ref-type="bibr" rid="TFH2003">Tait, French, &amp; Hulse, 2003</xref>). Another possible explanation for these differences can be understood through Rønnestad and Skovholt’s (<xref ref-type="bibr" rid="RS2013">2013</xref>) model for professional development. According to this model, getting knowledge in the lay helper phase (before studying) and getting knowledge in the beginning student phase may be less demanding for the teaching students than for the nursing students. In our opinion, this is not due to the academic demands of teaching education, but more that getting knowledge in teaching education is more like the daily life they had before they start their education. In addition, being a teaching student may be more familiar because they have gone through school themselves.</p>
+      	<p>New nursing students come from a lay helper phase and start an academic life with quite different and new demands including large amounts of reading materials, many lectures, group work, and exam preparation. At that point, nursing students are in principle in a similar situation to the teaching students. In our view, nursing students are also challenged in another way. They are expected to acquire and cope with knowledge, also research based, that is, vital to patients’ survival (<xref ref-type="bibr" rid="HBMJDUSB2014">Henoch et al., 2014</xref>; <xref ref-type="bibr" rid="LSCCWT2011">Liu et al., 2011</xref>; <xref ref-type="bibr" rid="P1985">Parkes, 1985</xref>). They meet serious illness as well as dying patients and are thoroughly trained in mastering such situations. From the descriptions of nurses’ working assignments, it is obvious that nursing students meet rather challenging situations during their education. An important effect for students in helping professions may, as described by Rønnestad and Skovholt (<xref ref-type="bibr" rid="RS2012">2012</xref>), be a high level of anxiety.</p>
+      	<p>The results show that teaching students, when beginning their education, have lower scores than the nursing students. Two explanations are possible for this discrepancy. At both time points, a number of men among the teachers is clearly higher than among the nurses. It is known from former research that males score lower in psychological distress than women (<xref ref-type="bibr" rid="TFH2003">Tait, French, &amp; Hulse, 2003</xref>). Another possible explanation for these differences can be understood through Rønnestad and Skovholt’s (<xref ref-type="bibr" rid="RS2012">2012</xref>) model for professional development. According to this model, getting knowledge in the lay helper phase (before studying) and getting knowledge in the beginning student phase may be less demanding for the teaching students than for the nursing students. In our opinion, this is not due to the academic demands of teaching education, but more that getting knowledge in teaching education is more like the daily life they had before they start their education. In addition, being a teaching student may be more familiar because they have gone through school themselves.</p>
          <p>In the first three years of work, psychological distress is reduced in both professions. The nurses’ score at three years at work was even better than when their education started. The teachers also showed reduced psychological distress after three years of work, but to a much less degree than the nurses did. Thus, it seems that the two groups’ practice is influenced by the difference in professional development.</p>
          <p>It may be that nurses are more closely supported by colleagues in their work, have more clearly defined working tasks, and are more supervised. They have more direct access to patients’ improvement and deterioration and are more often met with deeply felt gratitude from patients than teachers in their work with pupils. In addition, nurses may have an advantage when choosing their first jobs. Beginning nurses have more options for employment than young teachers. Furthermore, teachers are tasked with planning, organizing, and delivering work in complex classroom learning situations. Seventy percent of school classes in Norway consist of 15 to 25 pupils (<xref ref-type="bibr" rid="GWS2015">Gjerustad, Waagene, &amp; Salvanes, 2015</xref>). Compared with other professional groups, collegial feedback for teachers is rare (<xref ref-type="bibr" rid="C2013">Caspersen, 2013</xref>; <xref ref-type="bibr" rid="KS2012">Klette &amp; Smeby, 2012</xref>; <xref ref-type="bibr" rid="S2010">Scheerens, 2010</xref>).</p>
          <p>Young professional teachers describe their complex working situation as lonely and with less feedback (<xref ref-type="bibr" rid="HS2010">Hancock &amp; Scherff, 2010</xref>; <xref ref-type="bibr" rid="KS2012">Klette &amp; Smeby, 2012</xref>; <xref ref-type="bibr" rid="KK2007">Kyriacou &amp; Kunc, 2007</xref>) than young professional nurses (<xref ref-type="bibr" rid="BH2011">Bond &amp; Holland, 2011</xref>; <xref ref-type="bibr" rid="LWB2005">Lu, While, &amp; Barriball, 2005</xref>). These situations may explain why new nurses have less psychological stress than new teachers.</p>
@@ -1042,6 +1010,24 @@
                <!--Please verify that the elocadion-id is indeed an elocation-id and not an uncomplete page range.-->
                <elocation-id>197</elocation-id>
                <uri>http://dx.doi.org/10.1177/0263211X010292005</uri>
+            </element-citation>
+         </ref>
+         <ref id="C2008"><!--Chaplain, R. P. 2008. Stress and psychological distress among trainee secondary teachers in England. <italic>Educational Psychology, 28</italic>(2), 195-209. <uri>https://doi.org/10.1080/01443410701491858</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chaplain</surname>
+                     <given-names>R. P.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>Stress and psychological distress among trainee secondary teachers in England.</article-title>
+               <source>Educational Psychology</source>
+               <volume>28</volume>
+               <issue>2</issue>
+               <fpage>195</fpage>
+               <lpage>209</lpage>
+               <uri>https://doi.org/10.1080/01443410701491858</uri>
             </element-citation>
          </ref>
          <ref id="CRDV2010"><!--Christensson, A., Runeson, B., Dickman, P. W., & Vaez, M. (2010). Change in depressive symptoms over higher education and professional establishment - a longitudinal investigation in a national cohort of Swedish nursing students. <italic>BMC Public Health, 10</italic>, 343. <uri>http://dx.doi.org/10.1186/1471-2458-10-343</uri>-->
@@ -2107,6 +2093,32 @@
          <ref id="SSB2011"><!--Statistisk sentralbyrå (SSB). (2011). Yrker, arbeidskraftundersøkelsen [Occupations, labour force survey]. Retrieved from <uri>https://www.ssb.no/arbeid-og-lonn/statistikker/yrkeaku/aar/2012-04-26</uri>-->
             <mixed-citation publication-format="web">Statistisk sentralbyrå (SSB). (2011). Yrker, arbeidskraftundersøkelsen [Occupations, labour force survey]. Retrieved from <uri>https://www.ssb.no/arbeid-og-lonn/statistikker/yrkeaku/aar/2012-04-26</uri>
             </mixed-citation>
+         </ref>
+         <ref id="TFH2003"><!--Tait, R. J., French, D. J. & Hulse, G. K. (2003). Validity and psychometric properties of the General Health Questionnaire-12 in young Australian adolescents. <italic>Australian and New Zealand. Journal of Psychiatry, 37</italic>(3), 374-381. <uri>https://doi.org/10.1046/j.1440-1614.2003.01133.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tait</surname>
+                     <given-names>R. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>French</surname>
+                     <given-names>D. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hulse</surname>
+                     <given-names>G. K.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Validity and psychometric properties of the General Health Questionnaire-12 in young Australian adolescents.</article-title>
+               <source>Australian and New Zealand. Journal of Psychiatry</source>
+               <volume>37</volume>
+               <issue>3</issue>
+               <fpage>374</fpage>
+               <lpage>381</lpage>
+               <uri>https://doi.org/10.1046/j.1440-1614.2003.01133.x</uri>
+            </element-citation>
          </ref>
          <ref id="T2013"><!--Tufte, P. A. (2013). Risky professions?: Risk of disability in professions in Norway. <italic>Professions and Professionalism, 3</italic>(1). <uri>http://dx.doi.org/10.7577/pp.468</uri>-->
             <element-citation publication-type="journal" publication-format="web">
