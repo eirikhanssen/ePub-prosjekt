@@ -1,0 +1,2231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xml:lang="en"
+         xsi:noNamespaceSchemaLocation="../../jats/JATS-Publishing-1-1d3-MathML3-XSD/JATS-Publishing-1-1d3-MathML3-XSD/JATS-journalpublishing1-mathml3.xsd"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="DOAJ">18931049</journal-id>
+         <journal-title-group>
+            <journal-title>Professions &amp; Professionalism</journal-title>
+         </journal-title-group>
+         <issn>1893-1049</issn>
+         <publisher>
+            <publisher-name>Oslo and Akershus University College of Applied Sciences</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.7577/pp.1477</article-id>
+         <article-categories>
+            <subj-group subj-group-type="article-type">
+               <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="vdp">
+               <subject>289</subject>
+            </subj-group>
+            <subj-group subj-group-type="dewey">
+               <subject>305.553</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Psychological Distress in Norwegian Nurses and Teachers over Nine Years</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nerdrum</surname>
+                  <given-names>Per</given-names>
+               </name>
+               <xref ref-type="aff" rid="P_Nerdrum"/>
+               <!--Fixme! Properly tag <adress>...</adress>:-->
+               <!--institution|addr-line|city|country|phone|postal-code|state|email|ext-link|uri-->
+               <address>
+                  <addr-line>Oslo and Akershus University College of Applied Sciences</addr-line>
+                  <addr-line>Norway per.nerdrum@hioa.no</addr-line>
+               </address>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Geirdal</surname>
+                  <given-names>Amy Østertun</given-names>
+               </name>
+               <xref ref-type="aff" rid="A_Geirdal"/>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Høglend</surname>
+                  <given-names>Per Andreas</given-names>
+               </name>
+               <xref ref-type="aff" rid="P_Høglend"/>
+            </contrib>
+         </contrib-group>
+         <aff id="P_Nerdrum">Oslo and Akershus University College of Applied Sciences, Norway</aff>
+         <aff id="A_Geirdal">Oslo and Akershus University College of Applied Sciences, Norway</aff>
+         <aff id="P_Høglend"/>
+         <pub-date pub-type="pub">
+            <day>16</day>
+            <month>11</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue>3</issue>
+         <fpage>1</fpage>
+         <lpage>15</lpage>
+         <history>
+            <date date-type="received">
+               <day>28</day>
+               <month>9</month>
+               <year>2015</year>
+            </date>
+            <date date-type="accepted">
+               <day>28</day>
+               <month>9</month>
+               <year>2016</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access"
+                     xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://doi.org/10.7577/pp.1477">https://doi.org/10.7577/pp.1477</self-uri>
+         <abstract>
+            <p>Psychological distress have been found to be high and influence negatively nurses’ and teachers’ work. In this nine-year project, we present the first longitudinal study comparing psychological distress from 1467 students and young professionals in nursing and teaching. Psychological distress was measured with GHQ 12 at the start and the end of their studies and three and six years after graduation. Both descriptive statistics and estimated models were used to assess psychological distress over time. Psychological distress increased significantly in both groups during education. The reduction of psychological distress was significant among the nurses, and they clearly showed a “healthy worker effect” when coming into clinical work. The teachers had a small and non-significant reduction in the same period and did not show a positive effect after starting pedagogical work.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author-generated">
+            <kwd>Psychological distress</kwd>
+            <kwd>longitudinal study</kwd>
+            <kwd>students</kwd>
+            <kwd>nurses</kwd>
+            <kwd>teachers</kwd>
+            <kwd>transition from college to work</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <p>In Norway, there are about 105,000 nurses and about 67,000 primary school teachers. Together, they constitute about 7% of all persons employed in Norway (<xref ref-type="bibr" rid="SSB2016">Statistisk sentralbyrå [SSB], 2016</xref>). In addition, there are about 40,000 students qualifying to become professionals in these professions. Cross-sectional data have shown that nursing students, nurses, and teachers experience more psychological distress than the general population. The two largest welfare professions in Norway have, however, never been compared in longitudinal study that assesses their psychological distress.</p>
+      <p>Cross-sectional studies on psychological distress, measured with well-validated methods, show that nursing students, nurses, and teachers experience more psychological distress than the general population (<xref ref-type="bibr" rid="BTWLIM2013">Baba, Tourigny, Wang, Lituchy, &amp; Inés Monserrat, 2013</xref>; <xref ref-type="bibr" rid="MMKS2013">Mulholland, McKinlay, &amp; Sproule, 2013</xref>). Apart from the personal burdens of anxiety, depression, and low self-esteem, high psychological distress can also contribute to impaired academic performance, attrition from work, and cynicism and a lack of empathy when working with patients or pupils (<xref ref-type="bibr" rid="DTS2005">Dyrbye, Thomas, &amp; Shanafelt, 2005</xref>; <xref ref-type="bibr" rid="LMP2010">Le Maistre &amp; Pare, 2010</xref>; <xref ref-type="bibr" rid="SH2008">Schwarzer &amp; Hallum, 2008</xref>; <xref ref-type="bibr" rid="USJGWP2010">Urwin et al., 2010</xref>). Psychological distress may also make it difficult to cope with the crises that students and young professionals face in their personal, educational, and professional lives. At a neuropsychological level, high psychological distress can inhibit important processes such as attention and learning (<xref ref-type="bibr" rid="UE2010">Ursin &amp; Eriksen, 2010</xref>). Therefore, sustained high psychological distress may be a threat to the acquisition of the theoretical, pedagogical and clinical skills necessary to keep up with the development of knowledge within these two welfare professions (<xref ref-type="bibr" rid="DTS2005">Dyrbye et al., 2005</xref>). Similar findings are presented in research on the development of lay helpers, students, and young professionals in the helping disciplines (<xref ref-type="bibr" rid="RS2006">Rønnestad &amp; Skovholt, 2006</xref>; <xref ref-type="bibr" rid="    2013">2013</xref>; <xref ref-type="bibr" rid="S2005">Skovholt, 2005</xref>; <xref ref-type="bibr" rid="STM2014">Skovholt &amp; Trotter-Mathison, 2014</xref>). They found that anxiety was common during the study time, and represents a risk of stagnation in professional development. Increased psychological distress is also associated with increased sick leave (<xref ref-type="bibr" rid="NBMMCDR2012">Nielsen et al., 2012</xref>; <xref ref-type="bibr" rid="NHH2001">Nystuen, Hagen, &amp; Herrin, 2001</xref>). In a recent study, individuals working in the so-called “life professions” are more likely to be at risk for a disability pension in Norway (<xref ref-type="bibr" rid="T2013">Tufte, 2013</xref>). Nurses had a relative risk of 3.9 (hazard ratio) compared with engineers (1.0).The corresponding risk for teachers was 4.7.</p>
+      <p>As far as we know, teacher’s long-term psychological distress has never been studied. In light of this, the study brings new knowledge to the literature on these professions.</p>
+      <p>So, why compare nurses and teachers with regard to psychological distress? First, because both groups are in relational occupations (<xref ref-type="bibr" rid="HA2007">Harris &amp; Adams, 2007</xref>; <xref ref-type="bibr" rid="KS2012">Klette &amp; Smeby, 2012</xref>). They are thereby important by virtue of themselves as persons working in relationships (<xref ref-type="bibr" rid="N2016">Nesje, 2016</xref>; <xref ref-type="bibr" rid="RS2012">Ronnestad &amp; Skovholt, 2012</xref>). Second, they have comprehensive and important (albeit different) roles in the welfare state; for example, 1.8 million persons utilize somatic health care each year, and Norwegian kindergartens and elementary schools include approximately 1 million children (<xref ref-type="bibr" rid="SSB2011">SSB, 2011</xref>).</p>
+   	<p>We estimate for the development of psychological distress over nine years among nurses and teachers. If their psychological distress scores are higher than estimated in the norm population it may, according to Dyrbye et al., (<xref ref-type="bibr" rid="DTS2005">2005</xref>), be problematic in their work with patients and children. Also, crossing the threshold between education and work may create gaps between theoretical knowledge learned in college and more practical knowledge expected from young professional nurses and teachers. Linking “a practice shock” to a possible increase in psychological distress have, to the best of our knowledge, not been done with empirical data for these two groups. If there exists a practice shock among the two groups of young health professionals, it is our assumption that their psychological distress will be influenced negatively.</p>
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Study aims</title>
+         <p>The aim of our study was twofold. First, it was to conduct an investigation of levels of psychological distress in nurses and teachers, from the beginning to the end of their education, as well as three and six years into their careers. Second, we wanted to compare the patterns of psychological distress experienced by the two groups during this nine-year period. Do they demonstrate a similar development of psychological distress or does each profession demonstrate a specific pattern?</p>
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Psychological distress among nurses and nursing students</title>
+            <p>Several cross-sectional studies indicate that nurses worldwide belong to a high-stress occupation (<xref ref-type="bibr" rid="BTWLI2013">Baba et al., 2013</xref>; <xref ref-type="bibr" rid="BCVD1998">Bourbonnais, Comeau, Vezina, &amp; Dion, 1998</xref>; <xref ref-type="bibr" rid="LL2001">Lambert &amp; Lambert, 2001</xref>; <xref ref-type="bibr" rid="MGRB2003">McGrath, Reid, &amp; Boore, 2003</xref>; <xref ref-type="bibr" rid="PDMLB2011">Pisanti, van der Doef, Maes, Lazzari, &amp; Bertini, 2011</xref>). Assessed with General Health Questionnaire between 27% and 32% of the nurses in these studies scored on a case level which is markedly higher than in the general population (15%-20%) (<xref ref-type="bibr" rid="KHMØ2013">Knudsen, Harvey, Mykletun, &amp; Øverland, 2013</xref>).</p>
+            <p>Cross-sectional studies have also been performed with nursing students, indicating that they are at high risk of developing psychological distress (<xref ref-type="bibr" rid="CVDR2011">Christensson, Vaez, Dickman, &amp; Runeson, 2011</xref>; <xref ref-type="bibr" rid="JJ2000">Jones &amp; Johnston, 2000</xref>). Longitudinal studies have confirmed that nursing students’ psychological distress increases significantly during their education (<xref ref-type="bibr" rid="CRDV2010">Christensson, Runeson, Dickman, &amp; Vaez, 2010</xref>; <xref ref-type="bibr" rid="DWH2003">Deary, Watson, &amp; Hogston, 2003</xref>; <xref ref-type="bibr" rid="L2002">Lo, 2002</xref>; <xref ref-type="bibr" rid="NRR2009">Nerdrum, Rustoen, &amp; Ronnestad, 2009</xref>; <xref ref-type="bibr" rid="WGHGSWD2009">Watson et al., 2009</xref>).</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Psychological distress among teachers and teaching students</title>
+         	<p>Empirical data from comprehensive cross-sectional research on teacher stress also indicates that teaching is a high-stress profession (<xref ref-type="bibr" rid="C2001">Chaplain, 2001</xref>; <xref ref-type="bibr" rid="K2001">Kyriacou, 2001</xref>; <xref ref-type="bibr" rid="MMKS2013">Mulholland et al., 2013</xref>). Kyriacou and Sutcliffe (<xref ref-type="bibr" rid="KS1978">1978</xref>) were the first to present or describe the term “teacher stress” which closely resembled the definition of psychological distress—the experience of negative emotions such as anger, tension, frustration or depression, resulting from a teacher’s perception that their work constituted a threat to their self-esteem or well-being. Assessed with General Health Questionnaire, between 33% and 77% of the teachers in these studies scored on a case level. As far as we have found, longitudinal studies on teachers’ psychological distress have never been done.</p>
+         	<p>Studies of psychological distress among teaching students are fewer than those of nursing students (<xref ref-type="bibr" rid="G2010">Gardner, 2010</xref>). However, a cross-sectional study by Chaplain (<xref ref-type="bibr" rid="C2008">2008</xref>) found that as many as 38% of 268 students in Scotland considered their practicum to be very or extremely stressful, while 46% considered teaching as a very or extremely stressful profession. However, neither of these studies measures levels of psychological distress by validated instruments.</p>
+            <p>Empirical data from cross-sectional studies on psychological distress measured with well-validated methods shows that nursing students, nurses, and teachers experience more psychological distress than the general population. Validated studies of teaching students’ psychological distress are lacking. Longitudinal studies among nursing students show that their psychological distress increases during education. Longitudinal studies following the psychological distress of teachers over time are lacking. In other words, longitudinal studies are needed to compare psychological distress experienced over time by the two largest professional groups working within the welfare sector.</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Materials and methods</title>
+         <p>In September 2000, entry-level nursing and teaching students from two cities in Norway were asked to participate in a longitudinal study of student and post-graduate functioning (StudData). StudData is a research program with the purpose of stimulating comparative research on vocational educational programs. The students were informed that they would be contacted to complete questionnaires at the beginning of their education (t1, 2000), when they graduated (t2, 2003), and three and six years (t3, 2006; t4, 2009) into their careers as young professionals. In addition, at t3 and t4 nurses and teachers that had graduated from a university college located in a third city in Norway in 2003 were invited to participate in the StudData.</p>
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Ethics</title>
+            <p>All participants were informed that participation in the study was voluntary and that they could refuse to participate or withdraw from the study at any time. Permission to collect, compute, and store the data was approved by The Norwegian Data Inspectorate.</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Participants</title>
+            <p>The total sample consists of 1,467 individuals. From this sample, 699 participated in the collection of data at t1: 235 nursing students (91% were women) and 464 teaching students (70% women). At t2, data from 542 were collected: 197 students of nursing (93% women) and 345 of teaching (72% women). At t3, 795 professionals participated: 364 nurses (93% women) and 431 teachers (78% women). Finally, at t4, 505 professionals participated: 279 nurses (93% women) and 226 teachers (80% women). These numbers indicate that many students/professionals who participated at t1 and, respectively, at t2 or t3, dropped out at other measurement times. Correspondingly, many new students/professionals joined the study at t2, t3, and t4. Mean age and standard deviation of the nurses and teachers at the four-time points were 24.0 (5.6) and 23.6 (5.3), 26.9 (5.5) and 26.4 (5.2), 29.9 (5.5) and 29.4 (5.2) and 33.3 (5.5) and 32.6 (5.3) years, respectively. At t1, 34.2% of the nursing students and 34.6% of the teaching students were married or cohabiting. The corresponding percentages at t2, t3 and t4 were 51.5% and 47.9%, 72.9% and 70.4%, and 81.9% and 81.5%.</p>
+            <p>This longitudinal study comprised a total of 2,541 answers from 1,467 individuals, with estimated levels of psychological stress based on the statistical methods linear mixed model (LMM). Out of the 1,467 participants, 115 were defined as completers because they participated at each of the four measurement times, (33 nurses and 82 teachers). To check the study’ representatively of the measurements, these data are presented to illustrate whether those who participated at all time points were compatible with the findings descriptively in the total sample. 	</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Measures</title>
+            <p>The General Health Questionnaire 12 (GHQ-12) was applied to measure psychological distress at t1, t2, t3, and t4. GHQ-12 is a widely used self-report instrument for measuring psychological distress and for the screening of non-psychotic mental disorders (<xref ref-type="bibr" rid="GGSUPGR1997">Goldberg et al., 1997</xref>; <xref ref-type="bibr" rid="GBZFHSW2013">Goodwin et al., 2013</xref>). It has been validated in a large number of studies of the general adult population, clinical populations, and occupational populations, as well as in populations of students and young professionals (<xref ref-type="bibr" rid="AEKUP2012">Aalto, Elovainio, Kivimäki, Uutela, &amp; Pirkola, 2012</xref>; <xref ref-type="bibr" rid="AGDNT2001">Adlaf, Gliksman, Demers, &amp; Newton-Taylor, 2001</xref>; <xref ref-type="bibr" rid="F1986">Firth, 1986</xref>; <xref ref-type="bibr" rid="GBZFHSW2013">Goodwin et al., 2013</xref>; <xref ref-type="bibr" rid="GFHMBH2008">Gorter et al., 2008</xref>; <xref ref-type="bibr" rid="NG2014">Nerdrum &amp; Geirdal, 2014</xref>). The 12-item version was chosen for the present study.</p>
+            <p>Six items of the GHQ-12 are framed positively (e.g., “able to enjoy day-to-day activities”) and six are framed negatively (e.g., “constantly felt under strain”). For each item, the person is asked to mark whether he or she has experienced the problem during the last two weeks, using four response categories (“less than usual,” “as usual,” “more than usual” or “much more than usual”). The GHQ is constructed as a state measure that is sensitive to changes in mental distress. Two different scoring systems are used. The first is based on a one-dimensional model that assumes that all psychiatric disorders share a common factor. The degree of severity, then, can be placed on one axis. This one-dimensional model is reflected in the application of a Likert scale (0, 1, 2, 3) with a range of 0-36. We apply Pevalin’s GHQ 12 Likert-norms from a sample of the general population (n = 4749) (<xref ref-type="bibr" rid="P2000">Pevalin, 2000</xref>). Another scoring system (GHQ-12 case score) is based on a clinical theory that assumes that one can identify a clinically meaningful threshold in the dimension of distress measured by the GHQ. This threshold constitutes the cut-off point at which a clinically significant disorder (case) is reflected in the participant’s score. When using GHQ as a screening instrument, categorical scoring (0, 0, 1, 1) results in a scoring range of 0 to 12. In this paper, we applied both scoring systems. The formal definition of the threshold for psychiatric case identification with the GHQ is the number of symptoms for which the probability of being assessed to be a case exceeds 50% in an independent psychiatric assessment. Assessed by many validation studies that use clinical interviews as the gold standard, the GHQ-12 has a satisfactory ability to detect both cases (median sensitivity = 87 %) and non-cases (median specificity = 82 %); for an overview, see (<xref ref-type="bibr" rid="GOO1998">Goldberg, Oldehinkel, &amp; Ormel, 1998</xref>). Like most GHQ-12 studies that measure mental health problems, we applied the 4+ threshold. Students and professionals that mark four or more of the 12 items on the response categories “more than usual” or “much more than usual” in the last two weeks will be classified as having a clinically significant problem and belong to the case group. The GHQ-12 case score (0 - 12) is less sensitive to change in mental health than the GHQ-12 Likert score (0 - 36).</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Statistical analysis</title>
+            <p>To investigate the reliability of the GHQ-12 for this particular Norwegian sample, we used Cronbach’s alpha to compute the internal consistency for both scoring systems. GHQ-12 case rates for the two student/professional groups were compared using Fischer’s exact test, as well as paired sample T-test when comparing means between T1 – T4 in each group. We also compared socio-demographic variables (age, gender and marital status) at the four-time points.</p>
+            <p>The GHQ Likert scores for the 115 completers in the study (33 nurses and 82 teachers) were compared cross-sectionally at t1, t2, t3 and t4 with independent samples t-tests, and longitudinally with paired samples t-tests.</p>
+            <p>We used linear mixed models (LMMs) to analyse longitudinal data (SPSS version 22, 2012). LMMs expand on the general linear model to permit the data to exhibit correlated and non-constant variability. LMMs use all available data and can handle missing data. Because repeated measures (Level 1) were nested within individuals (Level 2), we used a two-level hierarchically nested random effects growth model to analyse the longitudinal data. In our analyses, time was coded with one step for each three-year period. A three-piece linear model (Time 1, Time 2 and Time 3) fitted the data discernibly better than a two-piece model (change in -2 log likelihood). The knots were at study termination as well as 3 and 6 years after the end of study period. Intercept and Time 1, Time 2, Time 3 were included in both the random and the fixed part of the model. Random intercepts and random slopes were fitted for each person. Time 1 was coded 0111, Time 2 was coded 0011, Time 3 was coded 0001. After the time variables were entered as predictors at Level 1, the other predictors were entered at Level 2. Types of education, nursing education (coded 0), and teaching education (coded 1) was treated as only fixed effect. We assumed gender to be a confounding variable that might influence psychological distress differently in the two groups. Thus, gender was coded female = 1 and male = 0.</p>
+            <p>The following composite model equation was used to test the possible differences in GHQ-12 trajectories between the two educations over the nine-year study period: Yij = B<sub>0</sub> + B<sub>1</sub>GENDERi +B<sub>2</sub> EDUCATION + B<sub>3</sub>TIME1ij + B<sub>4</sub> (EDUCATIONi X TIME1ij) + B<sub>5</sub> TIME2ij + B<sub>6</sub> (EDUCATIONi X TIME2ij) + B<sub>7</sub> TIME3ij + B<sub>8</sub> (EDUCATIONi X TIME3ij) + [ζoi + ζ1iTIME1ij + ζ2iTIME2ij + ζ3iTIME3ij + εij]. Yij is the GHQ-12 score for subject i at time point j. B<sub>0</sub> – B<sub>8</sub> are the fixed effects, and [ζoi + ζ1iTIME1ij + ζ2iTIME2ij + ζ3iTIME3ij + εij] are the random intercept, random time, and error term, respectively. The relevant parameters are B<sub>3</sub>, the slope for nurses during education (the amount of change per time unit), B<sub>4</sub> (the difference in slopes between the two education groups during education), B<sub>5</sub>, (the slope for nurses during the three-year period after the end of education). B<sub>6</sub> (the difference in slopes between the two education groups after the end of education), B<sub>7</sub> (the slope for nurses during the three- to six-year period after the end of education), and B<sub>8</sub> (the difference in slopes between the two education groups). Using an unstructured covariance matrix, we could detect no significant covariances between intercepts and slopes. However, this model did not converge. To get our statistical model to converge, random slopes for the time variables had to be deleted. A variance component covariance matrix yielded the best goodness-of-fit measures in the simplified model. No longitudinal statistical analyses were performed on subgroups of participants. The full sample of students and professionals (N = 1467) was used in all model predicted analyses.</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Results</title>
+         <p>The GHQ-12 had high internal consistency, which indicates good reliability for both scoring systems at all measurement times (Cronbach’s alpha = 0.85, 0.87, 0.86, and 0.88).</p>
+         <p>Table 1 shows the percentage of females, marital status and age in the two professional groups at t1, t2, t3 and t4. At all measurement times, there were significantly more men in the teacher group than in the nursing group (p &lt; 0001). The age differences were not statistically significant between the two groups. The two groups were similar with regard to being married or cohabiting versus being single.</p>
+         <table-wrap id="tbl1">
+            <label>Table 1</label>
+            <!-- optional label and caption -->
+            <caption>
+               <p>Demographic data for gender and age</p>
+            </caption>
+            <table>
+               <tbody>
+                  <tr>
+                     <td/>
+                     <th>
+                        <p>N = 1507</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <th>
+                        <p>t1</p>
+                     </th>
+                     <th>
+                        <p>t2</p>
+                     </th>
+                     <th>
+                        <p>t3</p>
+                     </th>
+                     <th>
+                        <p>t4</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                           <bold>Total participants</bold> (n/%)</p>
+                     </td>
+                     <td>
+                        <p>613</p>
+                     </td>
+                     <td>
+                        <p>485</p>
+                     </td>
+                     <td>
+                        <p>885</p>
+                     </td>
+                     <td>
+                        <p>593</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Nurses</p>
+                     </th>
+                     <td>
+                        <p>235</p>
+                     </td>
+                     <td>
+                        <p>197</p>
+                     </td>
+                     <td>
+                        <p>443</p>
+                     </td>
+                     <td>
+                        <p>331</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Female</p>
+                     </th>
+                     <td>
+                        <p>214 (91%)<sup>a</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>183 (93)<sup>a</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>408 (92)<sup>a</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>305 (92)<sup> a</sup>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Teachers</p>
+                     </th>
+                     <td>
+                        <p>378</p>
+                     </td>
+                     <td>
+                        <p>288</p>
+                     </td>
+                     <td>
+                        <p>442</p>
+                     </td>
+                     <td>
+                        <p>262</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Female</p>
+                     </th>
+                     <td>
+                        <p>261 (69)<sup> a</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>204 (71)<sup> a</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>345 (78)<sup> a</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>207 (79)<sup> a</sup>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                           <bold>Age </bold>(Mean/SD)</p>
+                     </td>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Nurses 	</p>
+                     </th>
+                     <td>
+                        <p>24.0 (5.7)<sup> c</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>26.6 (5.4)</p>
+                     </td>
+                     <td>
+                        <p>29.7 (5.4)<sup> c</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>33.6 (6.0)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Teachers</p>
+                     </th>
+                     <td>
+                        <p>23.1 (4.6)</p>
+                     </td>
+                     <td>
+                        <p>26.2 (4.9)</p>
+                     </td>
+                     <td>
+                        <p>29.0 (5.1)</p>
+                     </td>
+                     <td>
+                        <p>32.8 (5.4)</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Note: Chi-square tests were applied for between-gender comparisons. Independent samples t-tests were applied for comparison between the age groups at each timepoint.</p>
+         <p>
+            <sup>a</sup>Chi-square with Fischer’s exact test, p &lt; 0.001.</p>
+         <p>
+            <sup>c</sup>Independent samples t-test, p &lt; 0.05.</p>
+         <p>Table 2 lists the data regarding psychological distress (GHQ-12 Likert- and case scores) for the two education groups at four time points.</p>
+         <table-wrap id="tbl2">
+            <label>Table 2</label>
+            <!-- optional label and caption -->
+            <caption>
+               <p>Cross-sectional and longitudinal descriptive data about psychological distress at each of the four time points</p>
+            </caption>
+            <table>
+               <tbody>
+                  <tr>
+                     <td/>
+                     <th>
+                        <p>t1</p>
+                     </th>
+                     <th>
+                        <p>t2</p>
+                     </th>
+                     <th>
+                        <p>t3</p>
+                     </th>
+                     <th>
+                        <p>t4</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                           <bold>GHQ-12 cases</bold> (n/%)</p>
+                     </td>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Nurses</p>
+                     </th>
+                     <td>
+                        <p>53 (23)</p>
+                     </td>
+                     <td>
+                        <p>62 (32)<sup>b</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>67 (15)</p>
+                     </td>
+                     <td>
+                        <p>56 (17)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Teachers</p>
+                     </th>
+                     <td>
+                        <p>75 (20)</p>
+                     </td>
+                     <td>
+                        <p>63 (22)</p>
+                     </td>
+                     <td>
+                        <p>63 (22)</p>
+                     </td>
+                     <td>
+                        <p>43 (14)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                           <bold>GHQ-12 Likert</bold> (Mean/SD)</p>
+                     </td>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Nurses</p>
+                     </th>
+                     <td>
+                        <p>11.0 (5.3)</p>
+                     </td>
+                     <td>
+                        <p>12.7 (5.9)<sup>d</sup>
+                        </p>
+                     </td>
+                     <td>
+                        <p>10.5 (4.0)</p>
+                     </td>
+                     <td>
+                        <p>10.7 (4.7)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Teachers</p>
+                     </th>
+                     <td>
+                        <p>10.2 (5.1)</p>
+                     </td>
+                     <td>
+                        <p>11.2 (5.5)</p>
+                     </td>
+                     <td>
+                        <p>10.9 (5.1)</p>
+                     </td>
+                     <td>
+                        <p>10.7 (5.0)</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Note: Chi-square tests were applied for comparisons between professions, and independent samples t-tests were applied for the comparison of Likert scores between the professions at each timepoint.</p>
+         <p>
+            <sup>a</sup>Chi-square with Fischer’s exact test, p &lt; 0.05</p>
+         <p>
+            <sup>c</sup>Independent samples t-test, p &lt; 0.005</p>
+         <p>At graduation (t2), the proportion of cases was higher among nursing students (31.5%) than among teaching students (24.6%), but the difference was not significant (p = 0.08).</p>
+         <p>Table 3 shows cross-sectional GHQ-12 Likert scores for the 115 completers of the study, and the model predicted estimated GHQ-12 Likert scores. The development of psychological distress in the two samples is rather similar; the 115 completers do follow a similar pattern as the main sample. The differences between the model predicted GHQ Likert scores for the nurses and teachers are highly significant at all time points (p &lt; 0.000).</p>
+         <table-wrap id="tbl3">
+            <label>Table 3</label>
+            <!-- optional label and caption -->
+            <caption>
+               <p>Longitudinal descriptive data about psychological distress at each of the four time points for the 115 completers</p>
+            </caption>
+            <table>
+               <tbody>
+                  <tr>
+                     <td/>
+                     <th>
+                        <p>t1</p>
+                     </th>
+                     <th>
+                        <p>t2</p>
+                     </th>
+                     <th>
+                        <p>t3</p>
+                     </th>
+                     <th>
+                        <p>t4</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                           <bold>GHQ-12 cases</bold> (n/%)</p>
+                     </td>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Nurses (33)</p>
+                     </th>
+                     <td>
+                        <p>9 (27)</p>
+                     </td>
+                     <td>
+                        <p>10 (30)</p>
+                     </td>
+                     <td>
+                        <p>7 (21)</p>
+                     </td>
+                     <td>
+                        <p>3 (9)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Teachers (82)</p>
+                     </th>
+                     <td>
+                        <p>8 (12)</p>
+                     </td>
+                     <td>
+                        <p>15 (22)</p>
+                     </td>
+                     <td>
+                        <p>11 (16)</p>
+                     </td>
+                     <td>
+                        <p>14 (31)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                           <bold>GHQ-12 Likert</bold> (Mean/SD)</p>
+                     </td>
+                     <td/>
+                     <td/>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Nurses (33)</p>
+                     </th>
+                     <td>
+                        <p>11.1 (5.0)</p>
+                     </td>
+                     <td>
+                        <p>12.6 (6.2)</p>
+                     </td>
+                     <td>
+                        <p>10.6 (4.4)</p>
+                     </td>
+                     <td>
+                        <p>10.0 (2.9)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Teachers (82)</p>
+                     </th>
+                     <td>
+                        <p>9.5 (4.3)</p>
+                     </td>
+                     <td>
+                        <p>11.1 (5.2)</p>
+                     </td>
+                     <td>
+                        <p>10.5 (5.4)</p>
+                     </td>
+                     <td>
+                        <p>11.2 (5.3)</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Note: Chi-square tests (Fischer’s exact test) were applied to compare the differences in GHQ-12 cases between the professions. Independent samples t-tests were applied to compare the Likert scores between the professions at each time point. None of the differences was statistically significant.</p>
+         <p>Figure 1 shows trajectories from the estimated model predicted GHQ-12 means for the two education groups at t1, t2, t3 and t4.</p>
+         <fig id="fig1"><!--Figure 1.-->
+            <label>Figure 1</label>
+            <caption>
+               <p>The model predicted estimated GHQ mean scores on all respondents on four measurements (t1, t2, t3 and t4).</p>
+            </caption>
+            <graphic id="graphic1"
+                     xlink:href="figures/ngh_fig1.svg"/>
+         </fig>
+         <p>Table 4 shows intercept and slopes comparing estimated GHQ-12 trajectories in the two education groups throughout the nine-year study period. After adjusting for influence for gender (p = 0.001), the groups’ means were equal at baseline. The Estimates of Fixed Effects (LMM) show the following changes in the GHQ-12 estimates and differences in slopes between the two educations. First, during the study (from t1 to t2 = Time 1), the teaching students became significantly more distressed, and their GHQ estimate (B<sub>2</sub>) differed significantly from zero (0.94, p = 0 .005). Second, during the same period, the nursing students became clearly more distressed than the teacher students did. The nursing students’ GHQ estimate (B<sub>3</sub>) increased with 2.09 (i.e. B<sub>2</sub> +<sub> </sub>B<sub>3</sub> = 0.96 + 1.15). This difference in slopes between the two groups during education was significant (p = 0.014). During the first three years of work (Time 2), the teachers became less distressed (B<sub>4 </sub>= -0.62); however, this reduction was not statistically significant (p = 0.113). The nurses became significantly less distressed than the teachers did during Time 2 (B<sub>4 </sub>+ B<sub>5</sub> = -2.33, p = 0.003). During Time 3 (between t3 and t4) the changes in GHQ-12 and differences in slopes comparing psychological distress between the two educations were not significant (B<sub>6 </sub>= - 0.040, p = 0.358; B<sub>7 </sub>= -0.40 + 0.60 = 0.020, p = 0.330). The effect sizes for the differences in slopes between the two education groups were small (Cohen’s d = 0.20) during education and during the first 3 years after education.</p>
+         <table-wrap id="tbl4">
+            <label>Table 4</label>
+            <!-- optional label and caption -->
+            <caption>
+               <p>Estimates of fixed effects</p>
+            </caption>
+            <table>
+               <tbody>
+                  <tr>
+                     <th>
+                        <p>Parameter</p>
+                     </th>
+                     <th>
+                        <p>Estimate</p>
+                     </th>
+                     <th>
+                        <p>Std. Error</p>
+                     </th>
+                     <th>
+                        <p>df</p>
+                     </th>
+                     <th>
+                        <p>t</p>
+                     </th>
+                     <th>
+                        <p>p</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Intercept (B<sub>0</sub>)</p>
+                     </th>
+                     <td>
+                        <p>10.74</p>
+                     </td>
+                     <td>
+                        <p>0.22</p>
+                     </td>
+                     <td>
+                        <p>1183.81</p>
+                     </td>
+                     <td>
+                        <p>48.57</p>
+                     </td>
+                     <td>
+                        <p>0.000</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Gender (B<sub>1</sub>)</p>
+                     </th>
+                     <td>
+                        <p>-1.01</p>
+                     </td>
+                     <td>
+                        <p>0.31</p>
+                     </td>
+                     <td>
+                        <p>1040.96</p>
+                     </td>
+                     <td>
+                        <p>-3.27</p>
+                     </td>
+                     <td>
+                        <p>0.001</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Time1 (B<sub>2</sub>)</p>
+                     </th>
+                     <td>
+                        <p>0.94</p>
+                     </td>
+                     <td>
+                        <p>0.33</p>
+                     </td>
+                     <td>
+                        <p>596.71</p>
+                     </td>
+                     <td>
+                        <p>2.85</p>
+                     </td>
+                     <td>
+                        <p>0.005</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Time1xEducation (B<sub>3</sub>)</p>
+                     </th>
+                     <td>
+                        <p>1.15</p>
+                     </td>
+                     <td>
+                        <p>0.47</p>
+                     </td>
+                     <td>
+                        <p>961.34</p>
+                     </td>
+                     <td>
+                        <p>2.47</p>
+                     </td>
+                     <td>
+                        <p>0.014</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Time 2 (B<sub>4</sub>)</p>
+                     </th>
+                     <td>
+                        <p>-0.62</p>
+                     </td>
+                     <td>
+                        <p>0.39</p>
+                     </td>
+                     <td>
+                        <p>1015.13</p>
+                     </td>
+                     <td>
+                        <p>-1.59</p>
+                     </td>
+                     <td>
+                        <p>0.113</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Time 2xEducation (B<sub>5</sub>)</p>
+                     </th>
+                     <td>
+                        <p>-1.71</p>
+                     </td>
+                     <td>
+                        <p>0.58</p>
+                     </td>
+                     <td>
+                        <p>1161.17</p>
+                     </td>
+                     <td>
+                        <p>-2.95</p>
+                     </td>
+                     <td>
+                        <p>0.003</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Time 3 (B<sub>6</sub>)</p>
+                     </th>
+                     <td>
+                        <p>-0.40</p>
+                     </td>
+                     <td>
+                        <p>0.43</p>
+                     </td>
+                     <td>
+                        <p>594.82</p>
+                     </td>
+                     <td>
+                        <p>-0.92</p>
+                     </td>
+                     <td>
+                        <p>0.358</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Time 2xEducation (B<sub>7</sub>)</p>
+                     </th>
+                     <td>
+                        <p>0.60</p>
+                     </td>
+                     <td>
+                        <p>0.62</p>
+                     </td>
+                     <td>
+                        <p>583.16</p>
+                     </td>
+                     <td>
+                        <p>0.97</p>
+                     </td>
+                     <td>
+                        <p>0.330</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Note: Dependent variable: GHQ-12.</p>
+         <p>Time: Slope for teachers.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Discussion</title>
+      	<p>The main findings of this study are as follows: Psychological distress increased significantly in both groups while they completed their education. This finding confirms former studies that nursing students become more distressed during their education (<xref ref-type="bibr" rid="NRR2009">Nerdrum, Rustøen &amp; Rønnestad 2009</xref>; <xref ref-type="bibr" rid="NG2014">Nerdrum &amp; Geirdal 2014</xref>), while the findings regarding increasing distress among teaching students are new. Although there are few systematic studies of psychological distress that compare young professional nurses and teachers during their first years at work, it is a surprising finding that only the nurses became less distressed when they entered the workforce. The nurses appeared to improve substantially after leaving school for practical clinical work. The teachers also became somewhat less distressed, although this change was not statistically significant. The findings run contrary to the expectation that when meeting clinical (for the nurses) and pedagogical (for the teachers) “realities,” psychological distress would increase rather than decrease. However, our finding is in line with the conclusion of Caspersen and Raaen (<xref ref-type="bibr" rid="CR2014">2014</xref>) who suggest that the strength of a possible “reality shock” is not as great as previously thought.</p>
+         <p>The datasets applied in the analyses confirm these changes over the nine-year period: Psychological distress increases for both groups during education, but decreases only for the nurses during the first three years of work. During the last period, from three to six years at work, both the descriptive data and the estimated data show only small and non-significant changes in psychological distress in the two groups. In this period, the study model predicted both estimated GHQ-12 mean scores and descriptive scores. The nurses scored about the same level as they did before they began their education (Figure 1). This is a lower level of psychological distress than those reported in studies of the general population in Western societies (<xref ref-type="bibr" rid="P2000">Pevalin, 2000</xref>). It is also clearly lower than the findings reported in published research from cross-sectional studies of the nursing profession. The teachers, however, did not improve after the transition to work.</p>
+         <p>In our view, this study’s most important findings are the nurses’ great increase in psychological distress during nursing school, followed by an even greater reduction in psychological distress during the first years of work compared with the moderate and non-significant changes in psychological distress among teachers. The two groups are similar in age; therefore, a corresponding general life phase influence on psychological distress should also be similar. The two groups are also similar in terms of marital status. From studies of the general population, one would expect marriage/cohabitation to protect from psychological distress (<xref ref-type="bibr" rid="MK2012">Maisel &amp; Karney, 2012</xref>).</p>
+      	<p>New nursing students come from a lay helper phase and start an academic life with quite different and new demands including large amounts of reading materials, many lectures, group work, and exam preparation. At that point, nursing students are in principle in a similar situation to the teaching students. In our view, nursing students are also challenged in another way. They are expected to acquire and cope with knowledge, also research based, that is, vital to patients’ survival (<xref ref-type="bibr" rid="HBMJDUSB2014">Henoch et al., 2014</xref>; <xref ref-type="bibr" rid="LSCCWT2011">Liu et al., 2011</xref>; <xref ref-type="bibr" rid="P1985">Parkes, 1985</xref>). They meet serious illness as well as dying patients and are thoroughly trained in mastering such situations. From the descriptions of nurses’ working assignments, it is obvious that nursing students meet rather challenging situations during their education. An important effect for students in helping professions may, as described by Rønnestad and Skovholt (<xref ref-type="bibr" rid="RS2013">2013</xref>), be a high level of anxiety.</p>
+      	<p>The results show that teaching students, when beginning their education, have lower scores than the nursing students. Two explanations are possible for this discrepancy. At both time points, a number of men among the teachers is clearly higher than among the nurses. It is known from former research that males score lower in psychological distress than women (<xref ref-type="bibr" rid="TFH2003">Tait, French, &amp; Hulse, 2003</xref>). Another possible explanation for these differences can be understood through Rønnestad and Skovholt’s (<xref ref-type="bibr" rid="RS2013">2013</xref>) model for professional development. According to this model, getting knowledge in the lay helper phase (before studying) and getting knowledge in the beginning student phase may be less demanding for the teaching students than for the nursing students. In our opinion, this is not due to the academic demands of teaching education, but more that getting knowledge in teaching education is more like the daily life they had before they start their education. In addition, being a teaching student may be more familiar because they have gone through school themselves.</p>
+         <p>In the first three years of work, psychological distress is reduced in both professions. The nurses’ score at three years at work was even better than when their education started. The teachers also showed reduced psychological distress after three years of work, but to a much less degree than the nurses did. Thus, it seems that the two groups’ practice is influenced by the difference in professional development.</p>
+         <p>It may be that nurses are more closely supported by colleagues in their work, have more clearly defined working tasks, and are more supervised. They have more direct access to patients’ improvement and deterioration and are more often met with deeply felt gratitude from patients than teachers in their work with pupils. In addition, nurses may have an advantage when choosing their first jobs. Beginning nurses have more options for employment than young teachers. Furthermore, teachers are tasked with planning, organizing, and delivering work in complex classroom learning situations. Seventy percent of school classes in Norway consist of 15 to 25 pupils (<xref ref-type="bibr" rid="GWS2015">Gjerustad, Waagene, &amp; Salvanes, 2015</xref>). Compared with other professional groups, collegial feedback for teachers is rare (<xref ref-type="bibr" rid="C2013">Caspersen, 2013</xref>; <xref ref-type="bibr" rid="KS2012">Klette &amp; Smeby, 2012</xref>; <xref ref-type="bibr" rid="S2010">Scheerens, 2010</xref>).</p>
+         <p>Young professional teachers describe their complex working situation as lonely and with less feedback (<xref ref-type="bibr" rid="HS2010">Hancock &amp; Scherff, 2010</xref>; <xref ref-type="bibr" rid="KS2012">Klette &amp; Smeby, 2012</xref>; <xref ref-type="bibr" rid="KK2007">Kyriacou &amp; Kunc, 2007</xref>) than young professional nurses (<xref ref-type="bibr" rid="BH2011">Bond &amp; Holland, 2011</xref>; <xref ref-type="bibr" rid="LWB2005">Lu, While, &amp; Barriball, 2005</xref>). These situations may explain why new nurses have less psychological stress than new teachers.</p>
+      	<p>Rønnestad and Skovholt (<xref ref-type="bibr" rid="RS2012">2012</xref>) underline the importance of supervision and learning from models (imitation). They warn against non-supportive or a complete lack of supervision which can be especially destructive for young professionals trying to develop professional competence. Thus, in our opinion, the large and positive effect on nurses’ psychological distress after three years of work can be a reflection of the pedagogy and culture in their training programs as young professionals.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Study strengths and limitations</title>
+         <p>To our knowledge, this is the first systematic longitudinal study that compares psychological distress between nurses and teachers. Over a nine-year period, repeated measurements of psychological distress were obtained with a reliable and valid instrument. We focused on the two largest vocational groups educated for and engaged in the fundamental tasks of building welfare and knowledge in society. The measurement methods that we used enable comparisons with other findings. Another strength is the use of linear mixed models (LMMs), which uses all available data and can also handle missing data. One limitation is that not all individuals were followed for the entire duration of the study. However, to some degree, we compensated for this limitation by presenting the data from the 115 completers of the study.</p>
+         <p>The data from the completers support the representability of the measurements and analyses of the total sample. One might also argue that the reduction in nurses’ psychological distress is an effect of selection bias; the most distressed nurses leave the profession (and the study) and might no longer be part of the empirical data. However, at the t3 measurement, when the participants had been in the workforce for three years, we procured data on psychological distress from a total of 795 nurses and teachers, more than at any of the other three time points (Table 1). In addition, we checked for a possible selection bias from t2 to t3 by testing the t2 GHQ-12 scores for the participations who did not participate at t3 against those who had participated at both t2 and t3. There were only small differences between the groups, and none of them was statistically significant (p = 0.48 for nurses and p = 0.47 for teachers). Both arguments against selection biases support our finding that the psychological distress of nurses actually improves from t2 to t3. The fact that the data were collected only from Norwegian students and young professionals is another limitation to its external validity. On the other hand, most studies on Western societies report similar levels of psychological distress in both the general and student populations.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Conclusions</title>
+         <p>Our study confirms the many findings about students’ increased psychological distress. In this study, students were followed through school and into positions as young professionals. Its main conclusion is that entering the workforce is different for nurses than for teachers. Nurses appear to profit more than teachers from the initial years of work experience and are, may be, in line with a “healthy worker effect” (<xref ref-type="bibr" rid="GBZFHSW2013">Goodwin et al., 2013</xref>; <xref ref-type="bibr" rid="LS1999">Li &amp; Sung, 1999</xref>) which presumes lower levels of psychological distress due to work challenges. The teachers in our study did not show the same effect. However, the teachers’ distress levels in this study were lower than the distress levels observed among teachers in the cross-sectional studies we cite. Regarding the two aims of our study, we present and analyse longitudinal data on psychological distress at four time points for the two professional groups. As students, the two groups have similar patterns of psychological distress. When beginning work as nurses and teachers, the nurses seemed to profit from a “healthy worker effect,” reducing psychological distress dramatically; on the other hand, the teachers showed only a small reduction in psychological distress from that at the end of their education. Following our discussion, we suggest that nurses may profit from developing a better understanding about the anxiety and psychological distress in the nurse study. The amount of anxiety and psychological distress they experience as students will likely decrease in their transitions to work. Furthermore, we suggest that the teachers may profit from developing a working culture with systematic supervision, one in which professional development is stimulated by collegial support.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+   </body>
+   <back>
+      <ref-list>
+         <ref id="AEKUP2012"><!--Aalto, A.-M., Elovainio, M., Kivimäki, M., Uutela, A., & Pirkola, S. (2012). The Beck Depression Inventory and General Health Questionnaire as measures of depression in the general population: A validation study using the Composite International Diagnostic Interview as the gold standard. <italic>Psychiatry Research, 197</italic>(1), 163-171. <uri>http://dx.doi.org/10.1016/j.psychres.2011.09.008</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aalto</surname>
+                     <given-names>A.-M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Elovainio</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kivimäki</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Uutela</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Pirkola</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>The Beck Depression Inventory and General Health Questionnaire as measures of depression in the general population: A validation study using the Composite International Diagnostic Interview as the gold standard.</article-title>
+               <source>Psychiatry Research</source>
+               <volume>197</volume>
+               <issue>1</issue>
+               <fpage>163</fpage>
+               <lpage>171</lpage>
+               <uri>http://dx.doi.org/10.1016/j.psychres.2011.09.008</uri>
+            </element-citation>
+         </ref>
+         <ref id="AGDNT2001"><!--Adlaf, E. M., Gliksman, L., Demers, A., & Newton-Taylor, B. (2001). The prevalence of elevated psychological distress among Canadian undergraduates: Findings from the 1998 Canadian Campus Survey. <italic>Journal of American College Health, 50</italic>(2), 67-72. <uri>http://dx.doi.org/10.1080/07448480109596009</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Adlaf</surname>
+                     <given-names>E. M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gliksman</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Demers</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Newton-Taylor</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>The prevalence of elevated psychological distress among Canadian undergraduates: Findings from the 1998 Canadian Campus Survey.</article-title>
+               <source>Journal of American College Health</source>
+               <volume>50</volume>
+               <issue>2</issue>
+               <fpage>67</fpage>
+               <lpage>72</lpage>
+               <uri>http://dx.doi.org/10.1080/07448480109596009</uri>
+            </element-citation>
+         </ref>
+         <ref id="BTWLIM2013"><!--Baba, V. V., Tourigny, L., Wang, X., Lituchy, T., & Inés Monserrat, S. (2013). Stress among nurses: A multi-nation test of the demand-control-support model. <italic>Cross Cultural Management: An International Journal, 20</italic>(3), 301-320. <uri>http://dx.doi.org/10.1108/CCM-02-2012-0012</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baba</surname>
+                     <given-names>V. V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tourigny</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>X.</given-names>
+                  </name>
+                  <name>
+                     <surname>Lituchy</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Inés Monserrat</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Stress among nurses: A multi-nation test of the demand-control-support model.</article-title>
+               <source>Cross Cultural Management: An International Journal</source>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>301</fpage>
+               <lpage>320</lpage>
+               <uri>http://dx.doi.org/10.1108/CCM-02-2012-0012</uri>
+            </element-citation>
+         </ref>
+         <ref id="BH2011"><!--Bond, M., & Holland, S. (2011). <italic>Skills of clinical supervision for nurses: A practical guide for supervisees, clinical supervisors and managers</italic>. Berkshire, England: Open University Press.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bond</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Holland</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <source>Skills of clinical supervision for nurses: A practical guide for supervisees, clinical supervisors and managers</source>
+               <publisher-loc>Berkshire, England</publisher-loc>
+               <publisher-name>Open University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="BCVD1998"><!--Bourbonnais, R., Comeau, M., Vezina, M., & Dion, G. (1998). Job strain, psychological distress, and burnout in nurses. <italic>American Journal of Industrial Medicine, 34</italic>(1), 20-28. <uri>http://dx.doi.org/10.1002/(SICI)1097-0274(199807)34:1<20::AID-AJIM4>3.0.CO;2-U</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourbonnais</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Comeau</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vezina</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Dion</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <article-title>Job strain, psychological distress, and burnout in nurses.</article-title>
+               <source>American Journal of Industrial Medicine</source>
+               <volume>34</volume>
+               <issue>1</issue>
+               <fpage>20</fpage>
+               <lpage>28</lpage>
+               <uri>http://dx.doi.org/10.1002/(SICI)1097-0274(199807)34:1&lt;20::AID-AJIM4&gt;3.0.CO;2-U</uri>
+            </element-citation>
+         </ref>
+         <ref id="C2013"><!--Caspersen, J. (2013). <italic>Professionalism among novice teachers. How they think, act, cope and perceive knowledge.</italic> Oslo: Høgskolen i Oslo og Akershus.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Caspersen</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>Professionalism among novice teachers. How they think, act, cope and perceive knowledge.</source>
+               <publisher-loc>Oslo</publisher-loc>
+               <publisher-name>Høgskolen i Oslo og Akershus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="CR2014"><!--Caspersen, J., & Raaen, F. D. (2014). Novice teachers and how they cope. <italic>Teachers and Teaching, 20</italic>(2), 189-211. <uri>http://dx.doi.org/10.1080/13540602.2013.848570</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Caspersen</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Raaen</surname>
+                     <given-names>F. D.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Novice teachers and how they cope.</article-title>
+               <source>Teachers and Teaching</source>
+               <volume>20</volume>
+               <issue>2</issue>
+               <fpage>189</fpage>
+               <lpage>211</lpage>
+               <uri>http://dx.doi.org/10.1080/13540602.2013.848570</uri>
+            </element-citation>
+         </ref>
+         <ref id="C2001"><!--Chaplain, R. P. (2001). Stress and job satisfaction among primary headteachers. <italic>Educational Management & Administration, 29</italic>(2), 197. <uri>http://dx.doi.org/10.1177/0263211X010292005</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chaplain</surname>
+                     <given-names>R. P.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Stress and job satisfaction among primary headteachers.</article-title>
+               <source>Educational Management &amp; Administration</source>
+               <volume>29</volume>
+               <issue>2</issue>
+               <!--Please verify that the elocadion-id is indeed an elocation-id and not an uncomplete page range.-->
+               <elocation-id>197</elocation-id>
+               <uri>http://dx.doi.org/10.1177/0263211X010292005</uri>
+            </element-citation>
+         </ref>
+         <ref id="CRDV2010"><!--Christensson, A., Runeson, B., Dickman, P. W., & Vaez, M. (2010). Change in depressive symptoms over higher education and professional establishment - a longitudinal investigation in a national cohort of Swedish nursing students. <italic>BMC Public Health, 10</italic>, 343. <uri>http://dx.doi.org/10.1186/1471-2458-10-343</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Christensson</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Runeson</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Dickman</surname>
+                     <given-names>P. W.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vaez</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Change in depressive symptoms over higher education and professional establishment - a longitudinal investigation in a national cohort of Swedish nursing students.</article-title>
+               <source>BMC Public Health</source>
+               <volume>10</volume>
+               <elocation-id>343</elocation-id>
+               <uri>http://dx.doi.org/10.1186/1471-2458-10-343</uri>
+            </element-citation>
+         </ref>
+         <ref id="CVDR2011"><!--Christensson, A., Vaez, M., Dickman, P. W., & Runeson, B. (2011). Self-reported depression in first-year nursing students in relation to socio-demographic and educational factors: A nationwide cross-sectional study in Sweden. <italic>Social Psychiatry and Psychiatric Epidemiology, 46</italic>(4), 299-310. <uri>http://dx.doi.org/10.1007/s00127-010-0198-y</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Christensson</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vaez</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Dickman</surname>
+                     <given-names>P. W.</given-names>
+                  </name>
+                  <name>
+                     <surname>Runeson</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Self-reported depression in first-year nursing students in relation to socio-demographic and educational factors: A nationwide cross-sectional study in Sweden.</article-title>
+               <source>Social Psychiatry and Psychiatric Epidemiology</source>
+               <volume>46</volume>
+               <issue>4</issue>
+               <fpage>299</fpage>
+               <lpage>310</lpage>
+               <uri>http://dx.doi.org/10.1007/s00127-010-0198-y</uri>
+            </element-citation>
+         </ref>
+         <ref id="DWH2003"><!--Deary, I. J., Watson, R., & Hogston, R. (2003). A longitudinal cohort study of burnout and attrition in nursing students. <italic>Journal of Advanced Nursing, 43</italic>(1), 71-81. <uri>http://dx.doi.org/10.1046/j.1365-2648.2003.02674.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Deary</surname>
+                     <given-names>I. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Watson</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hogston</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>A longitudinal cohort study of burnout and attrition in nursing students.</article-title>
+               <source>Journal of Advanced Nursing</source>
+               <volume>43</volume>
+               <issue>1</issue>
+               <fpage>71</fpage>
+               <lpage>81</lpage>
+               <uri>http://dx.doi.org/10.1046/j.1365-2648.2003.02674.x</uri>
+            </element-citation>
+         </ref>
+         <ref id="DTS2005"><!--Dyrbye, L. N., Thomas, M. R., & Shanafelt, T. D. (2005). Medical student distress: Causes, consequences, and proposed solutions. <italic>Mayo Clinic Proceedings, 80</italic>(12), 1613-1622. <uri>http://dx.doi.org/10.4065/80.12.1613</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dyrbye</surname>
+                     <given-names>L. N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>M. R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Shanafelt</surname>
+                     <given-names>T. D.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Medical student distress: Causes, consequences, and proposed solutions.</article-title>
+               <source>Mayo Clinic Proceedings</source>
+               <volume>80</volume>
+               <issue>12</issue>
+               <fpage>1613</fpage>
+               <lpage>1622</lpage>
+               <uri>http://dx.doi.org/10.4065/80.12.1613</uri>
+            </element-citation>
+         </ref>
+         <ref id="F1986"><!--Firth, J. (1986). Levels and sources of stress in medical students. <italic>British Medical Journal, 292</italic>(6529), 1177-1180. <uri>http://dx.doi.org/10.1136/bmj.292.6529.1177</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Firth</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1986</year>
+               <article-title>Levels and sources of stress in medical students.</article-title>
+               <source>British Medical Journal</source>
+               <volume>292</volume>
+               <issue>6529</issue>
+               <fpage>1177</fpage>
+               <lpage>1180</lpage>
+               <uri>http://dx.doi.org/10.1136/bmj.292.6529.1177</uri>
+            </element-citation>
+         </ref>
+         <ref id="G2010"><!--Gardner, S. (2010). Stress among prospective teachers: A review of the literature. <italic>Australian Journal of Teacher Education, 35</italic>(8), 18-28. <uri>http://dx.doi.org/10.14221/ajte.2010v35n8.2</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gardner</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Stress among prospective teachers: A review of the literature.</article-title>
+               <source>Australian Journal of Teacher Education</source>
+               <volume>35</volume>
+               <issue>8</issue>
+               <fpage>18</fpage>
+               <lpage>28</lpage>
+               <uri>http://dx.doi.org/10.14221/ajte.2010v35n8.2</uri>
+            </element-citation>
+         </ref>
+         <ref id="GWS2015"><!--Gjerustad, C., Waagene, E., & Salvanes, K. V. (2015). Spørsmål til Skole-Norge høsten 2014: Resultater og analyser fra Utdanningsdirektoratets spørreundersøkelse blant skoler og skoleeiere [Questions to Norwegian schools fall 2014: Results and anslyses from the Department of Education survey among schools and school owners]. Oslo: NIFU.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gjerustad</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Waagene</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Salvanes</surname>
+                     <given-names>K. V.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source/>
+               <publisher-loc>Oslo</publisher-loc>
+               <publisher-name>NIFU</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="GGSUPGR1997"><!--Goldberg, D. P., Gater, R., Sartorius, N., Ustun, T. B., Piccinelli, M., Gureje, O., & Rutter, C. (1997). The validity of two versions of the GHQ in the WHO study of mental illness in general health care. <italic>Psychological Medicine, 27</italic>(1), 191-197. <uri>http://dx.doi.org/10.1017/S0033291796004242</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Goldberg</surname>
+                     <given-names>D. P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gater</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Sartorius</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ustun</surname>
+                     <given-names>T. B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Piccinelli</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gureje</surname>
+                     <given-names>O.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rutter</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <article-title>The validity of two versions of the GHQ in the WHO study of mental illness in general health care.</article-title>
+               <source>Psychological Medicine</source>
+               <volume>27</volume>
+               <issue>1</issue>
+               <fpage>191</fpage>
+               <lpage>197</lpage>
+               <uri>http://dx.doi.org/10.1017/S0033291796004242</uri>
+            </element-citation>
+         </ref>
+         <ref id="GOO1998"><!--Goldberg, D. P., Oldehinkel, T., & Ormel, J. (1998). Why GHQ threshold varies from one place to another. <italic>Psychological Medicine, 28</italic>(4), 915-921. <uri>http://dx.doi.org/10.1017/S0033291798006874</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Goldberg</surname>
+                     <given-names>D. P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Oldehinkel</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ormel</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <article-title>Why GHQ threshold varies from one place to another.</article-title>
+               <source>Psychological Medicine</source>
+               <volume>28</volume>
+               <issue>4</issue>
+               <fpage>915</fpage>
+               <lpage>921</lpage>
+               <uri>http://dx.doi.org/10.1017/S0033291798006874</uri>
+            </element-citation>
+         </ref>
+         <ref id="GBZFHSW2013"><!--Goodwin, L., Ben-Zion, I., Fear, N. T., Hotopf, M., Stansfeld, S. A., & Wessely, S. (2013). Are reports of psychological stress higher in occupational studies?: A systematic review across occupational and population based studies. <italic>Plos One, 8</italic>(11). <uri>http://dx.doi.org/10.1371/journal.pone.0078693</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Goodwin</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ben-Zion</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fear</surname>
+                     <given-names>N. T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hotopf</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Stansfeld</surname>
+                     <given-names>S. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wessely</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Are reports of psychological stress higher in occupational studies?: A systematic review across occupational and population based studies.</article-title>
+               <source>Plos One</source>
+               <volume>8</volume>
+               <issue>11</issue>
+               <uri>http://dx.doi.org/10.1371/journal.pone.0078693</uri>
+            </element-citation>
+         </ref>
+         <ref id="GFHMBH2008"><!--Gorter, R., Freeman, R., Hammen, S., Murtomaa, H., Blinkhorn, A., & Humphris, G. (2008). Psychological stress and health in undergraduate dental students: Fifth year outcomes compared with first year baseline results from five European dental schools. <italic>European Journal of Dental Education, 12</italic>(2), 61-68. <uri>http://dx.doi.org/10.1111/j.1600-0579.2008.00468.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gorter</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Freeman</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hammen</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Murtomaa</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Blinkhorn</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Humphris</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>Psychological stress and health in undergraduate dental students: Fifth year outcomes compared with first year baseline results from five European dental schools.</article-title>
+               <source>European Journal of Dental Education</source>
+               <volume>12</volume>
+               <issue>2</issue>
+               <fpage>61</fpage>
+               <lpage>68</lpage>
+               <uri>http://dx.doi.org/10.1111/j.1600-0579.2008.00468.x</uri>
+            </element-citation>
+         </ref>
+         <ref id="HS2010"><!--Hancock, C. B., & Scherff, L. (2010). Who will stay and who will leave?: Predicting secondary English teacher attrition risk. <italic>Journal of Teacher Education, 61</italic>(4), 328-338. <uri>http://dx.doi.org/10.1177/0022487110372214</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hancock</surname>
+                     <given-names>C. B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Scherff</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Who will stay and who will leave?: Predicting secondary English teacher attrition risk.</article-title>
+               <source>Journal of Teacher Education</source>
+               <volume>61</volume>
+               <issue>4</issue>
+               <fpage>328</fpage>
+               <lpage>338</lpage>
+               <uri>http://dx.doi.org/10.1177/0022487110372214</uri>
+            </element-citation>
+         </ref>
+         <ref id="HA2007"><!--Harris, D. N., & Adams, S. J. (2007). Understanding the level and causes of teacher turnover: A comparison with other professions. <italic>Economics of Education Review, 26</italic>(3), 325-337. <uri>http://dx.doi.org/10.1016/j.econedurev.2005.09.007</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Harris</surname>
+                     <given-names>D. N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Adams</surname>
+                     <given-names>S. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Understanding the level and causes of teacher turnover: A comparison with other professions.</article-title>
+               <source>Economics of Education Review</source>
+               <volume>26</volume>
+               <issue>3</issue>
+               <fpage>325</fpage>
+               <lpage>337</lpage>
+               <uri>http://dx.doi.org/10.1016/j.econedurev.2005.09.007</uri>
+            </element-citation>
+         </ref>
+         <ref id="HBMJDUSB2014"><!--Henoch, I., Browall, M., Melin-Johansson, C., Danielson, E., Udo, C., Sundler, A. J., … Bergh, I. (2014). The Swedish version of the Frommelt attitude toward care of the dying scale: Aspects of validity and factors influencing nurses’ and nursing students’ attitudes. <italic>Cancer Nursing, 37</italic>(1), E1-E11. <uri>http://dx.doi.org/10.1097/NCC.0b013e318279106b</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henoch</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Browall</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Melin-Johansson</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Danielson</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Udo</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Sundler</surname>
+                     <given-names>A. J.</given-names>
+                  </name>
+                  <!-- Article has more authors than can be listed in APA style, some are missing here. -->
+                  <name>
+                     <surname>Bergh</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>The Swedish version of the Frommelt attitude toward care of the dying scale: Aspects of validity and factors influencing nurses’ and nursing students’ attitudes.</article-title>
+               <source>Cancer Nursing</source>
+               <volume>37</volume>
+               <issue>1</issue>
+               <fpage>E1</fpage>
+               <lpage>E11</lpage>
+               <uri>http://dx.doi.org/10.1097/NCC.0b013e318279106b</uri>
+            </element-citation>
+         </ref>
+         <ref id="JJ2000"><!--Jones, M. C., & Johnston, D. W. (2000). Evaluating the impact of a worksite stress management programme for distressed student nurses: A randomized controlled trial. <italic>Psychology & Health, 15</italic>(5), 689-706 <uri>http://dx.doi.org/10.1080/08870440008405480</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>M. C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnston</surname>
+                     <given-names>D. W.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Evaluating the impact of a worksite stress management programme for distressed student nurses: A randomized controlled trial.</article-title>
+               <source>Psychology &amp; Health</source>
+               <volume>15</volume>
+               <issue>5</issue>
+               <fpage>689</fpage>
+               <lpage>706</lpage>
+               <uri>http://dx.doi.org/10.1080/08870440008405480</uri>
+            </element-citation>
+         </ref>
+         <ref id="KS2012"><!--Klette, K., & Smeby, J.-C. (2012). Professional training and knowledge sources. In K. Jensen, L. C. Lahn & M. Nerland (Eds.), <italic>Professional learning in the knowledge society </italic>(pp. 143-162). Rotterdam: Sense Publishers. <uri>http://dx.doi.org/10.1007/978-94-6091-994-7_8</uri>-->
+            <element-citation publication-type="book-chapter" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Klette</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name>
+                     <surname>Smeby</surname>
+                     <given-names>J.-C.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <chapter-title>Professional training and knowledge sources</chapter-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Jensen</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name>
+                     <surname>Lahn</surname>
+                     <given-names>L. C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nerland</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <source>Professional learning in the knowledge society</source>
+               <fpage>143</fpage>
+               <lpage>162</lpage>
+               <publisher-loc>Rotterdam</publisher-loc>
+               <publisher-name>Sense Publishers</publisher-name>
+               <uri>http://dx.doi.org/10.1007/978-94-6091-994-7_8</uri>
+            </element-citation>
+         </ref>
+         <ref id="KHMØ2013"><!--Knudsen, A. K., Harvey, S. B., Mykletun, A., & Øverland, S. (2013). Common mental disorder and long-term sickness absence in a general working population: The Hordaland Health Study. <italic>Acta Psychiatrica Scandinavic, 127</italic>(4), 287-297. <uri>http://dx.doi.org/10.1111/j.1600-0447.2012.01902.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Knudsen</surname>
+                     <given-names>A. K.</given-names>
+                  </name>
+                  <name>
+                     <surname>Harvey</surname>
+                     <given-names>S. B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mykletun</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Øverland</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Common mental disorder and long-term sickness absence in a general working population: The Hordaland Health Study.</article-title>
+               <source>Acta Psychiatrica Scandinavic</source>
+               <volume>127</volume>
+               <issue>4</issue>
+               <fpage>287</fpage>
+               <lpage>297</lpage>
+               <uri>http://dx.doi.org/10.1111/j.1600-0447.2012.01902.x</uri>
+            </element-citation>
+         </ref>
+         <ref id="K2001"><!--Kyriacou, C. (2001). Teacher stress: Directions for future research. <italic>Educational Review, 53</italic>(1), 27-35. <uri>http://dx.doi.org/10.1080/00131910120033628</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kyriacou</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Teacher stress: Directions for future research.</article-title>
+               <source>Educational Review</source>
+               <volume>53</volume>
+               <issue>1</issue>
+               <fpage>27</fpage>
+               <lpage>35</lpage>
+               <uri>http://dx.doi.org/10.1080/00131910120033628</uri>
+            </element-citation>
+         </ref>
+         <ref id="KK2007"><!--Kyriacou, C., & Kunc, R. (2007). Beginning teachers’ expectations of teaching. <italic>Teaching and Teacher Education, 23</italic>(8), 1246-1257. <uri>http://dx.doi.org/10.1016/j.tate.2006.06.002</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kyriacou</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kunc</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Beginning teachers’ expectations of teaching.</article-title>
+               <source>Teaching and Teacher Education</source>
+               <volume>23</volume>
+               <issue>8</issue>
+               <fpage>1246</fpage>
+               <lpage>1257</lpage>
+               <uri>http://dx.doi.org/10.1016/j.tate.2006.06.002</uri>
+            </element-citation>
+         </ref>
+         <ref id="KS1978"><!--Kyriacou, C., & Sutcliffe, J. (1978). Teacher stress: Prevalence, sources, and symptoms. <italic>The British Journal of Educational Psychology, 48</italic>(2), 159-167. <uri>http://dx.doi.org/10.1111/j.2044-8279.1978.tb02381.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kyriacou</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Sutcliffe</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1978</year>
+               <article-title>Teacher stress: Prevalence, sources, and symptoms.</article-title>
+               <source>The British Journal of Educational Psychology</source>
+               <volume>48</volume>
+               <issue>2</issue>
+               <fpage>159</fpage>
+               <lpage>167</lpage>
+               <uri>http://dx.doi.org/10.1111/j.2044-8279.1978.tb02381.x</uri>
+            </element-citation>
+         </ref>
+         <ref id="LL2001"><!--Lambert, V. A., & Lambert, C. E. (2001). Literature review of role stress/strain on nurses: An international perspective. <italic>Nursing & Health Sciences, 3</italic>(3), 161-172. <uri>http://dx.doi.org/10.1046/j.1442-2018.2001.00086.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lambert</surname>
+                     <given-names>V. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Lambert</surname>
+                     <given-names>C. E.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Literature review of role stress/strain on nurses: An international perspective.</article-title>
+               <source>Nursing &amp; Health Sciences</source>
+               <volume>3</volume>
+               <issue>3</issue>
+               <fpage>161</fpage>
+               <lpage>172</lpage>
+               <uri>http://dx.doi.org/10.1046/j.1442-2018.2001.00086.x</uri>
+            </element-citation>
+         </ref>
+      	<ref id="LMP2010"><!--Le Maistre, C., & Pare, A. (2010). Whatever it takes: How beginning teachers learn to survive. <italic>Teaching and Teacher Education, 26</italic>(3), 559-564. <uri>http://dx.doi.org/10.1016/j.tate.2009.06.016</uri>-->
+      		<element-citation publication-type="journal" publication-format="web">
+      			<person-group person-group-type="author">
+      				<name>
+      					<surname>Le Maistre</surname>
+      					<given-names>C.</given-names>
+      				</name>
+      				<name>
+      					<surname>Pare</surname>
+      					<given-names>A.</given-names>
+      				</name>
+      			</person-group>
+      			<article-title>Whatever it takes: How beginning teachers learn to survive.</article-title>
+      			<source>Teaching and Teacher Education</source>
+      			<year>2010</year>
+      			<volume>26</volume>
+      			<issue>3</issue>
+      			<fpage>559</fpage>
+      			<lpage>564</lpage>
+      			<uri>http://dx.doi.org/10.1016/j.tate.2009.06.016</uri>
+      		</element-citation>
+      	</ref>
+         <ref id="LS1999"><!--Li, C.-Y., & Sung, F.-C. (1999). A review of the healthy worker effect in occupational epidemiology. <italic>Occupational Medicine, 49</italic>(4), 225-229. <uri>http://dx.doi.org/10.1093/occmed/49.4.225</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>C.-Y.</given-names>
+                  </name>
+                  <name>
+                     <surname>Sung</surname>
+                     <given-names>F.-C.</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <article-title>A review of the healthy worker effect in occupational epidemiology.</article-title>
+               <source>Occupational Medicine</source>
+               <volume>49</volume>
+               <issue>4</issue>
+               <fpage>225</fpage>
+               <lpage>229</lpage>
+               <uri>http://dx.doi.org/10.1093/occmed/49.4.225</uri>
+            </element-citation>
+         </ref>
+         <ref id="LSCCWT2011"><!--Liu, Y. C., Su, P. Y., Chen, C. H., Chiang, H. H., Wang, K. Y., & Tzeng, W. C. (2011). Facing death, facing self: Nursing students’ emotional reactions during an experiential workshop on life-and-death issues. <italic>Journal of Clinical Nursing, 20</italic>(5-6), 856-863. <uri>http://dx.doi.org/10.1111/j.1365-2702.2010.03545.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>Y. C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Su</surname>
+                     <given-names>P. Y.</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>C. H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Chiang</surname>
+                     <given-names>H. H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>K. Y.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tzeng</surname>
+                     <given-names>W. C.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Facing death, facing self: Nursing students’ emotional reactions during an experiential workshop on life-and-death issues.</article-title>
+               <source>Journal of Clinical Nursing</source>
+               <volume>20</volume>
+               <issue>5-6</issue>
+               <fpage>856</fpage>
+               <lpage>863</lpage>
+               <uri>http://dx.doi.org/10.1111/j.1365-2702.2010.03545.x</uri>
+            </element-citation>
+         </ref>
+         <ref id="L2002"><!--Lo, R. (2002). A longitudinal study of perceived level of stress, coping and self-esteem of undergraduate nursing students: An Australian case study. <italic>Journal of Advanced Nursing, 39</italic>(2), 119-126. <uri>http://dx.doi.org/10.1046/j.1365-2648.2000.02251.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lo</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <article-title>A longitudinal study of perceived level of stress, coping and self-esteem of undergraduate nursing students: An Australian case study.</article-title>
+               <source>Journal of Advanced Nursing</source>
+               <volume>39</volume>
+               <issue>2</issue>
+               <fpage>119</fpage>
+               <lpage>126</lpage>
+               <uri>http://dx.doi.org/10.1046/j.1365-2648.2000.02251.x</uri>
+            </element-citation>
+         </ref>
+         <ref id="LWB2005"><!--Lu, H., While, A. E., & Barriball, K. L. (2005). Job satisfaction among nurses: A literature review. <italic>International Journal of Nursing Studies, 42</italic>(2), 211-227. <uri>http://dx.doi.org/10.1016/j.ijnurstu.2004.09.003</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lu</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>While</surname>
+                     <given-names>A. E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Barriball</surname>
+                     <given-names>K. L.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Job satisfaction among nurses: A literature review.</article-title>
+               <source>International Journal of Nursing Studies</source>
+               <volume>42</volume>
+               <issue>2</issue>
+               <fpage>211</fpage>
+               <lpage>227</lpage>
+               <uri>http://dx.doi.org/10.1016/j.ijnurstu.2004.09.003</uri>
+            </element-citation>
+         </ref>
+         <ref id="MK2012"><!--Maisel, N. C., & Karney, B. R. (2012). Socioeconomic status moderates associations among stressful events, mental health, and relationship satisfaction. <italic>Journal of Family Psychology, 26</italic>(4), 654-660. <uri>http://dx.doi.org/10.1037/a0028901</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Maisel</surname>
+                     <given-names>N. C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Karney</surname>
+                     <given-names>B. R.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Socioeconomic status moderates associations among stressful events, mental health, and relationship satisfaction.</article-title>
+               <source>Journal of Family Psychology</source>
+               <volume>26</volume>
+               <issue>4</issue>
+               <fpage>654</fpage>
+               <lpage>660</lpage>
+               <uri>http://dx.doi.org/10.1037/a0028901</uri>
+            </element-citation>
+         </ref>
+         <ref id="MGRB2003"><!--McGrath, A., Reid, N., & Boore, J. (2003). Occupational stress in nursing. <italic>International Journal of Nursing Studies, 40</italic>(5), 555-565. <uri>http://dx.doi.org/10.1016/S0020-7489(03)00058-0</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McGrath</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Reid</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Boore</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Occupational stress in nursing.</article-title>
+               <source>International Journal of Nursing Studies</source>
+               <volume>40</volume>
+               <issue>5</issue>
+               <fpage>555</fpage>
+               <lpage>565</lpage>
+               <uri>http://dx.doi.org/10.1016/S0020-7489(03)00058-0</uri>
+            </element-citation>
+         </ref>
+         <ref id="MMKS2013"><!--Mulholland, R., McKinlay, A., & Sproule, J. (2013). Teacher interrupted: Work stress, strain, and teaching role. <italic>SAGE Open, 3</italic>(3). <uri>http://dx.doi.org/10.1177/2158244013500965</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mulholland</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>McKinlay</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Sproule</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Teacher interrupted: Work stress, strain, and teaching role.</article-title>
+               <source>SAGE Open</source>
+               <volume>3</volume>
+               <issue>3</issue>
+               <uri>http://dx.doi.org/10.1177/2158244013500965</uri>
+            </element-citation>
+         </ref>
+         <ref id="NG2014"><!--Nerdrum, P., & Geirdal, A. Ø. (2014). Psychological distress among young Norwegian health professionals. <italic>Professions and Professionalism, 4</italic>(1). <uri>http://dx.doi.org/10.7577/pp.526</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nerdrum</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Geirdal</surname>
+                     <given-names>A. Ø.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Psychological distress among young Norwegian health professionals.</article-title>
+               <source>Professions and Professionalism</source>
+               <volume>4</volume>
+               <issue>1</issue>
+               <uri>http://dx.doi.org/10.7577/pp.526</uri>
+            </element-citation>
+         </ref>
+         <ref id="NRR2009"><!--Nerdrum, P., Rustoen, T., & Ronnestad, M. H. (2009). Psychological distress among nursing, physiotherapy and occupational therapy students: A longitudinal and predictive study. <italic>Scandinavian Journal of Educational Research, 53</italic>(4), 363-378. <uri>http://dx.doi.org/10.1080/00313830903043133</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nerdrum</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rustoen</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ronnestad</surname>
+                     <given-names>M. H.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Psychological distress among nursing, physiotherapy and occupational therapy students: A longitudinal and predictive study.</article-title>
+               <source>Scandinavian Journal of Educational Research</source>
+               <volume>53</volume>
+               <issue>4</issue>
+               <fpage>363</fpage>
+               <lpage>378</lpage>
+               <uri>http://dx.doi.org/10.1080/00313830903043133</uri>
+            </element-citation>
+         </ref>
+         <ref id="N2016"><!--Nesje, K. (2016). Personality and professional commitment of students in nursing, social work, and teaching: A comparative survey. <italic>International Journal of Nursing Studies, 53</italic>, 173-181. <uri>http://dx.doi.org/10.1016/j.ijnurstu.2015.08.001</uri>-->
+            <element-citation publication-type="book" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nesje</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <source>International Journal of Nursing Studies, 53</source>
+               <publisher-loc>, 173-181.</publisher-loc>
+               <publisher-name>, 173-181.</publisher-name>
+               <uri>http://dx.doi.org/10.1016/j.ijnurstu.2015.08.001</uri>
+            </element-citation>
+         </ref>
+         <ref id="NBMMCDR2012"><!--Nielsen, M. B. D., Bültmann, U., Madsen, I. E., Martin, M., Christensen, U., Diderichsen, F., & Rugulies, R. (2012). Health, work, and personal-related predictors of time to return to work among employees with mental health problems. <italic>Disability and Rehabilitation, 34</italic>(15), 1311-1316. <uri>http://dx.doi.org/10.3109/09638288.2011.641664</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nielsen</surname>
+                     <given-names>M. B. D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bültmann</surname>
+                     <given-names>U.</given-names>
+                  </name>
+                  <name>
+                     <surname>Madsen</surname>
+                     <given-names>I. E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Martin</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Christensen</surname>
+                     <given-names>U.</given-names>
+                  </name>
+                  <name>
+                     <surname>Diderichsen</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rugulies</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Health, work, and personal-related predictors of time to return to work among employees with mental health problems.</article-title>
+               <source>Disability and Rehabilitation</source>
+               <volume>34</volume>
+               <issue>15</issue>
+               <fpage>1311</fpage>
+               <lpage>1316</lpage>
+               <uri>http://dx.doi.org/10.3109/09638288.2011.641664</uri>
+            </element-citation>
+         </ref>
+         <ref id="NHH2001"><!--Nystuen, P., Hagen, K. B., & Herrin, J. (2001). Mental health problems as a cause of long-term sick leave in the Norwegian workforce. <italic>Scandinavian Journal of Public Health, 29</italic>(3), 175-182. <uri>http://dx.doi.org/10.1177/14034948010290030301</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nystuen</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hagen</surname>
+                     <given-names>K. B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Herrin</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Mental health problems as a cause of long-term sick leave in the Norwegian workforce.</article-title>
+               <source>Scandinavian Journal of Public Health</source>
+               <volume>29</volume>
+               <issue>3</issue>
+               <fpage>175</fpage>
+               <lpage>182</lpage>
+               <uri>http://dx.doi.org/10.1177/14034948010290030301</uri>
+            </element-citation>
+         </ref>
+         <ref id="P1985"><!--Parkes, K. R. (1985). Stressful episodes reported by first-year student nurses: A descriptive account. <italic>Social Science & Medicine, 20</italic>(9), 945-953. <uri>http://dx.doi.org/10.1016/0277-9536(85)90351-X</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Parkes</surname>
+                     <given-names>K. R.</given-names>
+                  </name>
+               </person-group>
+               <year>1985</year>
+               <article-title>Stressful episodes reported by first-year student nurses: A descriptive account.</article-title>
+               <source>Social Science &amp; Medicine</source>
+               <volume>20</volume>
+               <issue>9</issue>
+               <fpage>945</fpage>
+               <lpage>953</lpage>
+               <uri>http://dx.doi.org/10.1016/0277-9536(85)90351-X</uri>
+            </element-citation>
+         </ref>
+         <ref id="P2000"><!--Pevalin, D. J. (2000). Multiple applications of the GHQ-12 in a general population sample: an investigation of long-term retest effects. <italic>Social Psychiatry and Psychiatric Epidemiology, 35</italic>(11), 508-512. <uri>http://dx.doi.org/10.1007/s001270050272</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pevalin</surname>
+                     <given-names>D. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Multiple applications of the GHQ-12 in a general population sample: an investigation of long-term retest effects.</article-title>
+               <source>Social Psychiatry and Psychiatric Epidemiology</source>
+               <volume>35</volume>
+               <issue>11</issue>
+               <fpage>508</fpage>
+               <lpage>512</lpage>
+               <uri>http://dx.doi.org/10.1007/s001270050272</uri>
+            </element-citation>
+         </ref>
+         <ref id="PDMLB2011"><!--Pisanti, R., van der Doef, M., Maes, S., Lazzari, D., & Bertini, M. (2011). Job characteristics, organizational conditions, and distress/well-being among Italian and Dutch nurses: A cross-national comparison. <italic>International Journal of Nursing Studies, 48</italic>(7), 829-837. <uri>http://dx.doi.org/10.1016/j.ijnurstu.2010.12.006</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pisanti</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>van der Doef</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Maes</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Lazzari</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bertini</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Job characteristics, organizational conditions, and distress/well-being among Italian and Dutch nurses: A cross-national comparison.</article-title>
+               <source>International Journal of Nursing Studies</source>
+               <volume>48</volume>
+               <issue>7</issue>
+               <fpage>829</fpage>
+               <lpage>837</lpage>
+               <uri>http://dx.doi.org/10.1016/j.ijnurstu.2010.12.006</uri>
+            </element-citation>
+         </ref>
+         <ref id="RS2012"><!--Ronnestad, M. H., & Skovholt, T. M. (2012). <italic>The developing practitioner: Growth and stagnation of therapists and counselors.</italic> London, NY: Routledge.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ronnestad</surname>
+                     <given-names>M. H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Skovholt</surname>
+                     <given-names>T. M.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>The developing practitioner: Growth and stagnation of therapists and counselors.</source>
+               <publisher-loc>London, NY</publisher-loc>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="S2010"><!--Scheerens, J. (2010). <italic>Teachers’ professional development: Europe in international comparison</italic>—<italic>An analysis of teachers’ professional development based on the OECD’s Teaching and Learning International Survey (TALIS).</italic> Luxembourg: Office for Official Publications of the European Union.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scheerens</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Teachers’ professional development: Europe in international comparison</source>
+               <publisher-loc>Luxembourg</publisher-loc>
+               <publisher-name>Office for Official Publications of the European Union</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="SH2008"><!--Schwarzer, R., & Hallum, S. (2008). Perceived teacher self-efficacy as a predictor of job stress and burnout: Mediation analyses. <italic>Applied Psychology, 57</italic>(s1), 152-171. <uri>http://dx.doi.org/10.1111/j.1464-0597.2008.00359.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schwarzer</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hallum</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>Perceived teacher self-efficacy as a predictor of job stress and burnout: Mediation analyses.</article-title>
+               <source>Applied Psychology</source>
+               <volume>57</volume>
+               <issue>s1</issue>
+               <fpage>152</fpage>
+               <lpage>171</lpage>
+               <uri>http://dx.doi.org/10.1111/j.1464-0597.2008.00359.x</uri>
+            </element-citation>
+         </ref>
+         <ref id="S2005"><!--Skovholt, T. M. (2005). The cycle of caring: A model of expertise in the helping professions. <italic>Journal of Mental Health Counseling, 27</italic>(1), 82-93. <uri>http://dx.doi.org/10.17744/mehc.27.1.mj5rcvy6c713tafw</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Skovholt</surname>
+                     <given-names>T. M.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>The cycle of caring: A model of expertise in the helping professions.</article-title>
+               <source>Journal of Mental Health Counseling</source>
+               <volume>27</volume>
+               <issue>1</issue>
+               <fpage>82</fpage>
+               <lpage>93</lpage>
+               <uri>http://dx.doi.org/10.17744/mehc.27.1.mj5rcvy6c713tafw</uri>
+            </element-citation>
+         </ref>
+         <ref id="STM2014"><!--Skovholt, T. M., & Trotter-Mathison, M. J. (2014). <italic>The resilient practitioner: Burnout prevention and self-care strategies for counselors, therapists, teachers, and health professionals.</italic> New York: Routledge.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Skovholt</surname>
+                     <given-names>T. M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Trotter-Mathison</surname>
+                     <given-names>M. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>The resilient practitioner: Burnout prevention and self-care strategies for counselors, therapists, teachers, and health professionals.</source>
+               <publisher-loc>New York</publisher-loc>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="SSB2016"><!--Statistisk sentralbyrå (SSB). (2016). Arbeidskraftundersøkelsen, 1. kvartal [Occupations, labour force survey, first quarter]. Retrieved from <uri>https://www.ssb.no/arbeid-og-lonn/statistikker/aku/kvartal/2016-04-28</uri>-->
+            <mixed-citation publication-format="web">Statistisk sentralbyrå (SSB). (2016). Arbeidskraftundersøkelsen, 1. kvartal [Occupations, labour force survey, first quarter]. Retrieved from <uri>https://www.ssb.no/arbeid-og-lonn/statistikker/aku/kvartal/2016-04-28</uri>
+            </mixed-citation>
+         </ref>
+         <ref id="SSB2011"><!--Statistisk sentralbyrå (SSB). (2011). Yrker, arbeidskraftundersøkelsen [Occupations, labour force survey]. Retrieved from <uri>https://www.ssb.no/arbeid-og-lonn/statistikker/yrkeaku/aar/2012-04-26</uri>-->
+            <mixed-citation publication-format="web">Statistisk sentralbyrå (SSB). (2011). Yrker, arbeidskraftundersøkelsen [Occupations, labour force survey]. Retrieved from <uri>https://www.ssb.no/arbeid-og-lonn/statistikker/yrkeaku/aar/2012-04-26</uri>
+            </mixed-citation>
+         </ref>
+         <ref id="T2013"><!--Tufte, P. A. (2013). Risky professions?: Risk of disability in professions in Norway. <italic>Professions and Professionalism, 3</italic>(1). <uri>http://dx.doi.org/10.7577/pp.468</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tufte</surname>
+                     <given-names>P. A.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Risky professions?: Risk of disability in professions in Norway.</article-title>
+               <source>Professions and Professionalism</source>
+               <volume>3</volume>
+               <issue>1</issue>
+               <uri>http://dx.doi.org/10.7577/pp.468</uri>
+            </element-citation>
+         </ref>
+         <ref id="UE2010"><!--Ursin, H., & Eriksen, H. R. (2010). Cognitive activation theory of stress (CATS). <italic>Neuroscience & Biobehavioral Reviews, 34</italic>(6), 877-881. <uri>http://dx.doi.org/10.1016/j.neubiorev.2009.03.001</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ursin</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Eriksen</surname>
+                     <given-names>H. R.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Cognitive activation theory of stress (CATS).</article-title>
+               <source>Neuroscience &amp; Biobehavioral Reviews</source>
+               <volume>34</volume>
+               <issue>6</issue>
+               <fpage>877</fpage>
+               <lpage>881</lpage>
+               <uri>http://dx.doi.org/10.1016/j.neubiorev.2009.03.001</uri>
+            </element-citation>
+         </ref>
+         <ref id="USJGWP2010"><!--Urwin, S., Stanley, R., Jones, M., Gallagher, A., Wainwright, P., & Perkins, A. (2010). Understanding student nurse attrition: Learning from the literature. <italic>Nurse Education Today, 30</italic>(2), 202-207. <uri>http://dx.doi.org/10.1016/j.nedt.2009.07.014</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Urwin</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Stanley</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gallagher</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wainwright</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Perkins</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Understanding student nurse attrition: Learning from the literature.</article-title>
+               <source>Nurse Education Today</source>
+               <volume>30</volume>
+               <issue>2</issue>
+               <fpage>202</fpage>
+               <lpage>207</lpage>
+               <uri>http://dx.doi.org/10.1016/j.nedt.2009.07.014</uri>
+            </element-citation>
+         </ref>
+         <ref id="WGHGSWD2009"><!--Watson, R., Gardiner, E., Hogston, R., Gibson, H., Stimpson, A., Wrate, R., & Deary, I. (2009). A longitudinal study of stress and psychological distress in nurses and nursing students. <italic>Journal of Clinical Nursing, 18</italic>(2), 270-278. <uri>http://dx.doi.org/10.1111/j.1365-2702.2008.02555.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Watson</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gardiner</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hogston</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibson</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Stimpson</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wrate</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Deary</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>A longitudinal study of stress and psychological distress in nurses and nursing students.</article-title>
+               <source>Journal of Clinical Nursing</source>
+               <volume>18</volume>
+               <issue>2</issue>
+               <fpage>270</fpage>
+               <lpage>278</lpage>
+               <uri>http://dx.doi.org/10.1111/j.1365-2702.2008.02555.x</uri>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

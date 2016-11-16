@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xml:lang="en"
+         xsi:noNamespaceSchemaLocation="../../jats/JATS-Publishing-1-1d3-MathML3-XSD/JATS-Publishing-1-1d3-MathML3-XSD/JATS-journalpublishing1-mathml3.xsd"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="DOAJ">18931049</journal-id>
+         <journal-title-group>
+            <journal-title>Professions &amp; Professionalism</journal-title>
+         </journal-title-group>
+         <issn>1893-1049</issn>
+         <publisher>
+            <publisher-name>Oslo and Akershus University College of Applied Sciences</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.7577/pp.1520</article-id>
+         <article-categories>
+            <subj-group subj-group-type="article-type">
+               <subject>Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="vdp">
+               <subject>289</subject>
+            </subj-group>
+            <subj-group subj-group-type="dewey">
+               <subject>305.553</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Non-problematic Situations in Social Workers’ and GPs’ Practice</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Rexvid</surname>
+                  <given-names>Devin</given-names>
+               </name>
+               <xref ref-type="aff" rid="D_Rexvid"/>
+               <!--Fixme! Properly tag <adress>...</adress>:-->
+               <!--institution|addr-line|city|country|phone|postal-code|state|email|ext-link|uri-->
+               <address>
+                  <addr-line>Department of Social Work</addr-line>
+                  <addr-line>Umeå University</addr-line>
+                  <addr-line>Sweden</addr-line>
+                  <email>mailto:devin.rexvid@umu.se</email>
+               </address>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Evertsson</surname>
+                  <given-names>Lars</given-names>
+               </name>
+               <xref ref-type="aff" rid="L_Evertsson"/>
+            </contrib>
+         </contrib-group>
+         <aff id="D_Rexvid">Department of Social Work, Umeå University, Sweden</aff>
+         <aff id="L_Evertsson">Department of Social Work, Umeå University, Sweden</aff>
+         <pub-date pub-type="pub">
+            <day>11</day>
+            <month>10</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue>3</issue>
+         <fpage>1</fpage>
+         <lpage>16</lpage>
+         <history>
+            <date date-type="received">
+               <day>22</day>
+               <month>11</month>
+               <year>2015</year>
+            </date>
+            <date date-type="accepted">
+               <day>7</day>
+               <month>10</month>
+               <year>2016</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access"
+                     xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="http://dx.doi.org/10.7577/pp.1520">http://dx.doi.org/10.7577/pp.1520</self-uri>
+         <abstract>
+            <p>This study aims to describe and analyze written accounts of non-problematic situations by 28 social workers and 24 general practitioners (GPs). The results show that non-problematic situations were connected to professionals’ control of the intervention process. Non-problematic situations were described by social workers as situations where they had control of the relationship with the client either by the use of coercive means or by the client’s active cooperation. GPs referred to non-problematic situations as situations where they had control of the intervention process mainly by the use of professional knowledge. One main conclusion is that the ability to control the intervention process through control of the relationship with the client may be of significance to those professions where a central part of the professional jurisdiction involves changing clients’ behaviors. This conclusion means that professional knowledge is not the only way to control the professional intervention process.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author-generated">
+            <kwd>Non-problematic situations</kwd>
+            <kwd>social workers</kwd>
+            <kwd>general practitioners</kwd>
+            <kwd>professional knowledge</kwd>
+            <kwd>intervention process</kwd>
+            <kwd>jurisdiction</kwd>
+            <kwd>tasks</kwd>
+            <kwd>technologies</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <p>In research on professions, non-problematic situation has received little attention. By non-problematic situations we mean situations where professionals perceive that their professional practice runs smoothly and without any rupture or breakdown. In this article, we will take a closer look at social workers’ and general practitioners’ (GPs) perception of non-problematic situations.</p>
+      <p>The literature on professionals in human service organizations tends to emphasize that a central aspect of professional work is to deal with uncertainty (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="MT2010">Molander &amp; Terum, 2010</xref>). This uncertainty is to a considerable extent related to the fact that clients, as thinking, feeling, and acting subjects, are unpredictable (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>). Clients can neutralize and undermine the professional intervention process by acting in a non-compliant way (<xref ref-type="bibr" rid="AKWL2001">Aaker, Knudsen, Wynn, &amp; Lund, 2001</xref>). By showing resistance or reluctance towards interventions suggested by professionals (<xref ref-type="bibr" rid="BNKZ2003">Bremberg, Nilstun, Kovaca, &amp; Zwittera, 2003</xref>; <xref ref-type="bibr" rid="C2008">Calder, 2008</xref>) clients can rupture professional practice. Therefore, in human service organizations, client compliance is closely related to professionals’ ability to carry out their everyday professional practice (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="L2010">Lipsky, 2010</xref>).</p>
+      <p>In a previous article on social workers and general practitioners, we showed that the perceptions of problematic situations were connected to the disruption, lack of continuity, and loss of control of the intervention process (<xref ref-type="bibr" rid="REFN2014">Rexvid, Evertsson, Forssén, &amp; Nygren, 2014</xref>). These disruptions occurred in situations where clients were perceived to be reluctant, distrustful towards the professionals and unable to articulate their problems or comply with the proposed treatment (<xref ref-type="bibr" rid="REFN2014">Rexvid et al., 2014</xref>). However, in the same study, we also collected data from social workers and general practitioners on their perceptions of non-problematic situations which we present and analyze in this article.</p>
+      <p>In this article, we study how social workers and GPs perceive non-problematic situations and how these situations relate to control of the intervention process comprised of the recruitment of clients, diagnosis, treatment, and termination of the case (<xref ref-type="bibr" rid="A1988">Abbott, 1988</xref>; <xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>). The aim is to describe and analyze social workers and GPs’ perceptions of situations in their practice that they have experienced as non-problematic. The specific research questions are:</p>
+      <list list-type="order">
+         <list-item>
+            <p>What situations are experienced by social workers and GPs as non-problematic?</p>
+         </list-item>
+         <list-item>
+            <p>How can the differences between social workers and GPs’ perceptions of non-problematic situations be analyzed theoretically?</p>
+         </list-item>
+      </list>
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Literature review</title>
+         <p>The question of what constitutes non-problematic situations has received scarce attention. Previous research does not give a clear picture of what makes a situation non-problematic. In the literature that touches the area of “non-problematic situations,” the emphasis is on “easy cases” (<xref ref-type="bibr" rid="DN2005">Dunér &amp; Nordström, 2005</xref>; <xref ref-type="bibr" rid="S2004">Socialstyrelsen, 2004</xref>) or “simple problems” (<xref ref-type="bibr" rid="BMP2011">Blom, Morén, &amp; Perlinski, 2011</xref>; <xref ref-type="bibr" rid="GZ2002">Glouberman &amp; Zimmerman, 2002</xref>). Easy cases are contrasted with complex and “revolving-door cases” that is, cases that due to frequent occurrence cannot be closed (<xref ref-type="bibr" rid="DN2005">Dunér &amp; Nordström, 2005</xref>). More specifically easy cases refer to cases where the client, his/her relatives, and professionals are generally in agreement about what support the clients need and how it should be worked out (<xref ref-type="bibr" rid="DN2005">Dunér &amp; Nordström, 2005</xref>). Characteristic of easy cases also, according to Dunér and Nordström, is that professionals can handle them quickly and the execution of the intervention can be carried out quickly. Easy cases also refer to cases where the client’s need is clear-cut, the rules are clear, and the required support can be offered (<xref ref-type="bibr" rid="S2004">Socialstyrelsen, 2004</xref>). The focus in the literature on easy cases tends to be on the relationship between clients and professionals.</p>
+         <p>Unlike easy cases, simple problems are contrasted to complicated and complex problems (<xref ref-type="bibr" rid="BMP2011">see Blom, Morén, &amp; Perlinski, 2011</xref>; <xref ref-type="bibr" rid="GZ2002">Glouberman &amp; Zimmerman, 2002</xref>). Simple problems are described as problems where “recipes,” that is, detailed instructions on how to solve a problem, are of central importance. Recipes are tested to ensure replication and produce standardized results. The characteristic of simple problems is that the best recipe gives good results every time (<xref ref-type="bibr" rid="BMP2011">Blom et al., 2011</xref>; <xref ref-type="bibr" rid="GZ2002">Glouberman &amp; Zimmerman, 2002</xref>). In the discussion on simple problems, the main focus is on technical skills and less on how the relationship between the professionals and clients affects the experience of simple problems.</p>
+         <p>As we show in this section, the literature on non-problematic situations is not very rich. However, it provides some guidance on how to theoretically approach the phenomenon. The importance of technical skills and knowledge and a cooperative relationship makes it reasonable to assume that non-problematic situations mirror problematic situations in that it concerns the stability and continuity of the intervention process.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Theoretical framework</title>
+         <p>Based on the literature review we argue that social workers’ and GPs’ descriptions of non-problematic situations reflect situations where the professionals experience that they have control of the intervention process, that is, situations where the professional work does not break down but continues without serious disruptions. For professionals in human service organizations, this control may have both a knowledge dimension (<xref ref-type="bibr" rid="B2014">Brante, 2014</xref>) and a relational dimension (<xref ref-type="bibr" rid="REFN2014">Rexvid et al., 2014</xref>). The knowledge dimension, in a narrow sense, concerns the professionals’ knowledge of the client’s problems, or how to gain knowledge of the client’s problems and how to solve it (<xref ref-type="bibr" rid="B2014">Brante, 2014</xref>). The relational dimension can include trust, distrust, truce, cooperation, and compliance (<xref ref-type="bibr" rid="REFN2014">Rexvid et al., 2014</xref>). Both dimensions can be seen as indistinguishable parts of social workers and GPs’ practice. Our basic assumption is that knowledge is of fundamental importance for all professional work. However, depending on the two professions’ specific jurisdiction, the knowledge and relational dimensions of their practice can imply different impact on how they perceive the control of the intervention process in non-problematic situations.</p>
+      	<p>Jurisdiction in this article refers to social workers and GPs’ publicly acknowledged right to through the use of professional knowledge perform certain tasks and monopolize certain domains of work (<xref ref-type="bibr" rid="A1988">e.g., Abbott, 1988</xref>; <xref ref-type="bibr" rid="MT2010">Molander &amp; Terum, 2010</xref>). Professional knowledge of social workers and GPs stands for both codified knowledge, obtained from education, scientific research, practice guidelines, legislation, and textbooks, and for personal knowledge comprised of codified knowledge in its personalized form as well as knowledge about procedures, processes, and knowledge based on experience (<xref ref-type="bibr" rid="E1994">Eraut, 1994</xref>). Our basic assumption is that both professions use different types of knowledge to perform their tasks. However, in a Swedish study (<xref ref-type="bibr" rid="BJOS2015">Brante, Johnsson, Olofsson, &amp; Svensson, 2015</xref>) of a number of professions, doctors highlighted scientific knowledge as the most important source of knowledge, then new research findings followed by everyday knowledge and knowledge of laws and legislation. In comparison, social workers emphasized knowledge of laws and legislation as the main knowledge source, followed by everyday knowledge, scientific knowledge, and finally new research findings (<xref ref-type="bibr" rid="BJOS2015">Brante et al., 2015</xref>). One way to understand this difference is that social workers as a profession with an extended right to exercise public authority in order to integrate and regulate clients is in need of knowledge of laws and legislation (<xref ref-type="bibr" rid="BJOS2015">see Brante et al., 2015</xref>; <xref ref-type="bibr" rid="L2013">Levin, 2013</xref>). In comparison, the doctors’ highlighting of scientific knowledge as the main source of knowledge can be understood as an expression of the status of scientific knowledge as an ideal for doctors as a classic profession (<xref ref-type="bibr" rid="BJOS2015">Brante et al., 2015</xref>).</p>
+         <p>The jurisdictional tasks that social workers and GPs perform through the use of professional knowledge are human problems (<xref ref-type="bibr" rid="A1988">see Abbott, 1988</xref>). The specific jurisdiction of these professions has a significant impact on the tasks that they are expected to perform and which clients they should serve (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>). The jurisdiction of both professions has a moral character and includes tasks that involve the exercise of public authority because they are expected to be guardians of normality that is, normalize clients’ behavior or condition (<xref ref-type="bibr" rid="B2014">Brante, 2014</xref>; <xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="L2013">Levin, 2013</xref>; <xref ref-type="bibr" rid="SOU2003_30">SOU 2003:30</xref>, <xref ref-type="bibr" rid="SOU2003_30">2003</xref>; <xref ref-type="bibr" rid="S2015">Svensson, 2015</xref>). Nevertheless, a considerable difference between the two professions is that many of the tasks that social workers carry out imply the exercise of public authority (<xref ref-type="bibr" rid="L2013">Levin, 2013</xref>; <xref ref-type="bibr" rid="S2015">Svensson, 2015</xref>). The social workers’ jurisdiction includes tasks that entail helping clients to change their behavior, either by active cooperation or by coercive measures (<xref ref-type="bibr" rid="L2013">Levin, 2013</xref>). In comparison, the question of what tasks involve the exercise of public authority by GPs is not as clear as in the case of social work (<xref ref-type="bibr" rid="SOU2003_30">see SOU 2003:30</xref>, <xref ref-type="bibr" rid="SOU2003_30">2003</xref>). GPs’ jurisdiction only in exceptional cases allows them to carry out tasks involving coercive intervention in the client’s life (<xref ref-type="bibr" rid="SOU2003_30">SOU 2003:30</xref>, <xref ref-type="bibr" rid="SOU2003_30">2003</xref>; <xref ref-type="bibr" rid="S2015">Svensson, 2015</xref>). To these exceptions belong the Communicable Diseases Act and Care under Compulsory Psychiatric Care Act (<xref ref-type="bibr" rid="SOU2003_30">SOU 2003:30</xref>, <xref ref-type="bibr" rid="SOU2003_30">2003</xref>).</p>
+      	<p>Social workers and GPs encounter a considerable degree of complexity in the enactment of their practice as the tasks they perform are to manage human problems (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>). Although GPs’ jurisdiction means that they deal with medical problems as well as psychological problems, their work is often composed of management of physical problems, while the jurisdiction of social workers covers tasks involving management of social, economic, psychological, and behavioral problems. Social workers’ jurisdiction implies that they through the exercise of public authority in many cases change the clients’ behavior while GPs only in exceptional cases are allowed to take measures to change the clients’ behavior. Predicting and modifying human behavior, is according to Shanteau (<xref ref-type="bibr" rid="S1992">1992</xref>) representing another kind of difficulty than predicting and resolving physical problems. This means that social workers in many situations can deal with another kind of complexity since their tasks more often than those of GPs involve not only an individual client but also several tentative clients from a whole family (<xref ref-type="bibr" rid="M2000">see Mosesson, 2000</xref>) and modification of clients’ behaviour (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="L2013">Levin, 2013</xref>).</p>
+         <p>Moreover, both professions use different types of technologies in performing their tasks and to gain control of the intervention process (<xref ref-type="bibr" rid="H1983">see Hasenfeld, 1983</xref>). Technologies stand for approaches and methods used by social workers and GPs to solve clients’ problems (<xref ref-type="bibr" rid="H1983">see Hasenfled, 1983</xref>; <xref ref-type="bibr" rid="P2014">Perrow, 2014</xref>). Generally, welfare professions employ different types of technologies, including Client attribute technologies, knowledge technologies, interaction technologies, client control technologies, and operation technologies (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>). Which technology in which situation is used by social workers and GPs’ can be decided of the character of the tasks they perform that is, the stability versus instability and predictability versus unpredictability of the tasks (<xref ref-type="bibr" rid="S1992">Shanteau, 1992</xref>). The task characteristics are according to Shanteau also essential for professionals’ control of the intervention process, even in cases where the professionals possess relevant knowledge. Social workers and GPs’ use of certain technologies does not only touch the knowledge dimension of the practice but also the relational dimension as the professionals’ relationship with the clients in many situations implies a decisive impact on which technologies should be employed.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Methodology</title>
+         <p>In this study, we conducted a qualitative content analysis of 52 written accounts of situations perceived as non-problematic by social workers within personal social services, and by GPs within primary health care clinics in Sweden (see Table 1). All of the social workers and GPs were employed by Swedish local government: the GPs by the county councils and the social workers by the municipalities. As shown in Table 1, the social workers in this study worked with child protection, monetary benefits, and addiction. These areas represent a large segment of social work in Sweden since the majority of social workers in Sweden are employed by municipalities and work within Personal Social Services. The professional practice of social work within these areas typically involves the exercise of public authority. However, it is worth mentioning that publicly employed social workers are present within other areas of the welfare state in Sweden.</p>
+         <table-wrap id="tbl1">
+            <label>Table 1</label>
+            <!-- optional label and caption -->
+            <caption>
+               <p>Sample overview</p>
+            </caption>
+            <table>
+               <tbody>
+                  <tr>
+                     <td/>
+                     <th>
+                        <p>Social workers</p>
+                     </th>
+                     <th>
+                        <p>General practitioners</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Sex</p>
+                     </th>
+                     <td>
+                        <p>Female = 24, male = 4</p>
+                     </td>
+                     <td>
+                        <p>Female = 12, male =12</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Age</p>
+                     </th>
+                     <td>
+                        <p>Median = 37.5, youngest = 27, oldest = 66</p>
+                     </td>
+                     <td>
+                        <p>Median = 50, youngest = 28, oldest = 66</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Work experience</p>
+                     </th>
+                     <td>
+                        <p>Median = 6.5 years, max = 40 years, min = 2 years</p>
+                     </td>
+                     <td>
+                        <p>Median = 12 years, max = 35 years, min = 2 years</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th>
+                        <p>Area of professional work</p>
+                     </th>
+                     <td>
+                        <p>Child protection: 16, monetary benefits: 8, addiction: 4</p>
+                     </td>
+                     <td>
+                        <p>Primary health care</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Data collection</title>
+            <p>The data was collected between May 2011 and February 2012. The recruitment of social workers and GPs was carried out by email. Our aim was to capture a wide variety of experiences of non-problematic situations which was the reason why we only contacted social workers and GPs with at least two years’ work experience. The e-mail message was comprised of a brief presentation of the study, the ethical principles concerning confidentiality, voluntary participation, and informed consent. The email message also contained a questionnaire that covered the respondents’ professional background and instructions on how to report situations that they had perceived as non-problematic. The respondents were given the following instruction:</p>
+            <disp-quote>
+               <p>We ask you to give an example of a situation, or different types of situations, where you feel that your work with the client runs without problems. We want that you clearly address: 1) What makes the work non-problematic in such situations? and 2) If you have several options regarding the way of handling and selection of measures, how do you choose between them?</p>
+            </disp-quote>
+            <p>As the quotation shows, we did not provide the respondents with any definition of a non-problematic situation.</p>
+            <p>Our aim was to collect a relatively small body of data containing pregnant and credible accounts of non-problematic situations (<xref ref-type="bibr" rid="P2002">see Patton, 2002</xref>). We sent an email to professionals in several municipalities and counties at different times and received 52 responses.</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Analysis</title>
+            <p>The written accounts were analyzed by using a conventional content analysis (<xref ref-type="bibr" rid="HS2005">Hsieh &amp; Shannon, 2005</xref>). Initially, the codes were derived from the data and defined during data analysis. More specifically, the conventional content analysis was aimed to provide a multifaceted understanding of non-problematic situations.</p>
+            <p>In the first stage of the analysis, the researchers separately read and coded the data. This first stage resulted in several codes covering different aspects of what made a certain situation to be perceived as “non-problematic.” The codes were the outcomes of a process where sentences and paragraphs in the accounts were condensed. This means that the codes were generated from a reading of the data with an open attitude (<xref ref-type="bibr" rid="AK2007">Alvesson &amp; Kärreman, 2007</xref>). An open attitude does not mean that we avoided theory or postponed theory utilization; rather it included a broadening of our vocabulary and theoretical repertoire in order to consider more and less self-evident aspects of the professionals’ perceptions of non-problematic situations (<xref ref-type="bibr" rid="AK2007">Alvesson &amp; Kärreman, 2007</xref>). The self-evident aspect was that non-problematic situations referred to situations where the professionals experienced that they had the intervention process under control. The codes from the first analytical step were rearranged into three analytical main categories that are used in the article and elaborated further in the next section.</p>
+            <p>In the discussion section, we analyze our findings within a theoretical framework of the sociology of professions and human service organizations. This will guide our analysis and deepen our understanding of what it is that makes certain situations to be perceived as “non-problematic.”</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Results</title>
+         <p>As mentioned initially, non-problematic situations stood for situations where social workers and GPs were in control of the professional intervention process. In this section, we show that social workers perceived that they gained control of the intervention process through control of the relationship with the client. GPs, however, experienced that non-problematic situations were linked to the control of the intervention process through control of professional knowledge and knowledge utilization.</p>
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Social workers’ perceptions of non-problematic situations</title>
+            <p>Common to social workers’ descriptions of non-problematic situations was, as noted earlier, control of the relationship with the client. More specifically, for social workers non-problematic situations referred to situations where they perceived that they were dealing with clients who exhibited a competent behavior or misbehaved to such an extent that the social workers were left with no other option than to use statutory coercive means. In the following two sections, we begin with a description of non-problematic situations due to competent clients and end with depictions of non-problematic situations due to situations of “left with no choice.”</p>
+            <!-- sec lvl 4 begin -->
+            <sec>
+               <title>Non-problematic situations due to competent clients</title>
+               <p>Working with clients who respected social workers’ professional authority, took a positive stance towards suggested interventions and showed motivation, self-awareness, and a willingness to change, was central to social workers’ descriptions of non-problematic situations. The situations were experienced as non-problematic as these clients were perceived as behaving competently, rationally and did not challenge social workers’ control of the professional intervention process. According to the social workers, these competent clients typically lacked “real” social problems or only had minor social problems, which did not require interventions aiming at changing the clients’ conduct or lifestyle. Unaccompanied refugee children, as in the quotation below, were an example of clients who were described as being without real social problems and at the same time positive towards the work of social workers.</p>
+               <disp-quote>
+                  <p>I think it is non-problematic to handle unaccompanied refugee children. Children who lack severe social problems and where my work is more about planning where they should stay and provide for their basic needs. What makes it non-problematic is that they are motivated to get help and support, and they rarely have negative prejudices towards social services. (SW18)</p>
+               </disp-quote>
+               <p>Clients with minor social problems involved those who, due to sudden and unforeseen life events, were in temporary need of help and support by social workers. These clients were often seen by social workers as victims of circumstances beyond their control, for example, in the case of sudden unemployment. Working with these clients was non-problematic since they were regarded as responsible and resourceful clients and made active efforts to become self-sustaining and stay out of trouble in the future.</p>
+               <disp-quote>
+                  <p>I had a family that was both mentally and physically healthy; they had no addiction problems. They wanted to have monetary assistance in order to make ends meet during a period of temporary unemployment. They lived below the national norm for social assistance and wished to supplement their low income. They were economically competent and cooperated well with me throughout the whole process of finding work. I believed in what they said. They were trustworthy, and I could help them without any doubts. (SW<sup>
+                        <xref ref-type="fn" rid="ftn1">1</xref>
+                     </sup>12)</p>
+               </disp-quote>
+               <p>But even some situations where clients had more complex social problems such as drug abuse or child abuse that called for interventions aiming at changing the clients’ problematic behavior or lifestyle were described as non-problematic if the clients showed a competent behavior by taking a responsible attitude and a willingness to change. In the example below, the situation is described as non-problematic, as the client, suspected of child abuse and deficient parenting skills, exhibited self-awareness and a willingness to change.</p>
+               <disp-quote>
+                  <p>What makes it non-problematic is that the mother shows that she is capable of taking charge of her own life and the life of her children. She shows that she is capable of identifying and working with her problems in a promising manner. So the situation has gone from an increased need for control and intervention by the social services to a situation where we can let her decide how she wants to carry on with her life. (SW4)</p>
+               </disp-quote>
+               <p>Social workers also described situations in which they felt that they could rely on the clients’ own responsibility and trust during the intervention process as non-problematic.</p>
+               <disp-quote>
+                  <p>Work with families where there is a sincere desire to change usually goes without problems.… The situation becomes non-problematic as the family decides what they want to change and how which often creates a greater commitment and greater probability of success than if the social workers decide what the problem is in the family.… If there is a collaborative alliance, it is also possible for the social worker to raise difficult questions that require trust and confidence in the social workers to manage. (SW15)</p>
+               </disp-quote>
+               <p>In this section, we have shown that central to social workers’ perception of the non-problematic situation was that clients granted social workers’ control of the intervention process, by expressing a cooperative attitude to the intervention process and by displaying competence by staying out of trouble or being motivated to change a problematic life-style.</p>
+            </sec>
+            <!-- sec lvl 4 end -->
+            <!-- sec lvl 4 begin -->
+            <sec>
+               <title>Situations of “left with no choice” as non-problematic</title>
+               <p>Social workers’ perception of non-problematic situations was not limited to dealing with competent clients. Situations characterized by dealing with clients with complex social problems and a reluctance to cooperate and change were also perceived as non-problematic when the social workers were left with no other options than conducting coercive actions. Typically, this involved situations where clients’ behaviors posed a danger to themselves or others.</p>
+               <disp-quote>
+                  <p>A non-problematic situation is, I think when you do not have any other options. For example, if a client is in such a bad condition that he or she must be admitted to hospital. Or if someone needs to be cared for under LVM [the Care of Substance Abusers Act] in order to survive. (SW6)</p>
+               </disp-quote>
+               <p>Through legal coercive actions, social workers gained control of the intervention process. The use of coercive actions left clients with no or little opportunity to protest or object to the intervention suggested by the social worker, hence leaving them in control of the intervention process.</p>
+            </sec>
+            <!-- sec lvl 4 end -->
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>General practitioners’ perceptions of non-problematic situations</title>
+            <!-- sec lvl 4 begin -->
+            <sec>
+               <title>Non-problematic situations due to competent GPs</title>
+               <p>Social workers’ accounts of non-problematic situations differed from the GPs’ accounts. Where social workers’ accounts of non-problematic situations referred to situations in which they gained control of the intervention process by control of the relationship with the client, GPs’ accounts mainly referred to situations where they gained control of the intervention process by access to and use of professional knowledge and their ability to act competently in accordance with that knowledge when handling the client’s problem. In their accounts, GPs’ referred to different forms of professional knowledge such as experience-based knowledge, evidence-based knowledge, pattern recognition, guidelines, and diagnostic codes.</p>
+               <disp-quote>
+                  <p>Individual patients who only have a single medical problem—high blood pressure or a sprained foot. It is quick. It’s just listening to the patient and taking action based on evidence and my long professional experience. (GP<sup>
+                        <xref ref-type="fn" rid="ftn2">2</xref>
+                     </sup>2)</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>The handling of well-defined ailments covered by evidence and diagnostic codes is non-problematic. These include the treatment of respiratory infections, hypertension, bowel investigations, hypothyroidism and many musculoskeletal problems. (GP6)</p>
+               </disp-quote>
+               <p>In the GPs’ accounts, knowledge codified in decision aids such as diagnostic manuals or different kinds of practice guidelines appeared to be an important resource to make an accurate diagnosis as a competent GP. Non-problematic situations were thus, as the following excerpt shows, perceived as situations where GPs experienced that they had access to relevant knowledge which made it possible to interpret the clients’ symptoms, what the symptoms represented, and the severity of the client’s medical condition.</p>
+               <disp-quote>
+                  <p>Old man with a sore shoulder. Had received a cortisone injection a month ago, but the symptoms have returned now. Classic impingement. Non-problematic due to clear somatic complaints that were in accord with a clear diagnosis that leads right up to treatment; thus, simply a straightforward decision. (GP13)</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>Treatment of medical problems for which there are clearly formulated guidelines for medical intervention, for example, heart failure, dementia, hypertension, etc. (GP3)</p>
+               </disp-quote>
+               <p>Knowledge codified in diagnostic decision aids was also described as decisive for GPs’ choice of treatment, and decisions whether the client would be referred to more specialized care.</p>
+               <disp-quote>
+                  <p>An obvious referral case—acute or non-acute— for example, referral to the eye clinic for cataract surgery, to the surgeon for an inguinal hernia, to the children’s clinic/pediatric clinic when a child has an RS virus, etc. It is non-problematic when it is easy to diagnose and when there is help available within a reasonable time. (GP7)</p>
+               </disp-quote>
+               <p>Moreover, situations were also experienced as non-problematic when GPs through access to relevant knowledge could easily make a diagnosis. This is because in such situations GPs were enabled to carry out their professional tasks effectively without wasting time or medical resources.</p>
+               <disp-quote>
+                  <p>The patient is already diagnosed over the phone, and I just have to meet the patient briefly to confirm the diagnosis. It is time-saving for me and satisfying for both me and the patient. (GP5)</p>
+               </disp-quote>
+               <p>In the non-problematic situations above, access to different sorts of knowledge gave GPs control of the intervention process since access to relevant knowledge codified in decision aids and guidelines and the use of knowledge was linked to core professional activities such as interpreting symptoms, making a diagnosis, and choosing the right treatment for the client.</p>
+            </sec>
+            <!-- sec lvl 4 end -->
+         </sec>
+         <!-- sec lvl 3 end -->
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Summary</title>
+         <p>In the previous section, the first research question was addressed. We showed, as Figure 1 below summarizes that non-problematic situations were connected to being in control of the intervention process. The social workers perceived non-problematic situations as situations where they had control of the relationship with the client, either by the use of coercive means or by the client’s active cooperation. Dealing with situations where the clients posed a danger to themselves or others was described as non-problematic since it left social workers with no other choice than the use of coercive means to bring the intervention process under control. Dealing with clients taking a positive attitude towards the social worker’s suggested intervention was referred to as non-problematic since the social workers did not experience that they had to exercise public authority in order to have the intervention process under control. In comparison, GPs perceived that they gained control of the intervention process by the use of their professional knowledge. GPs described the use of professional knowledge as a key factor in bringing the intervention process under control since it was intimately linked to the interpretation of the client’s symptoms, and to the GPs’ ability to make a diagnosis and to choose a treatment.</p>
+<fig id="fig1">
+	<label>Figure 1</label>
+	<caption><p>Non-problematic situations in social workers’ and GPs’ professional practice</p></caption>
+	<graphic id="graphic1" orientation="landscape" xlink:href="Pictures/figure1_rexvid_evertsson.svg"/>
+</fig>         
+         <p>It is interesting to notice that in their accounts of non-problematic situations the social workers did not refer to use of professional knowledge and the GPs did not make references to the importance of the relationship with clients. Does this mean that knowledge is of no importance to social workers in handling non-problematic situations, or that the relationship with the clients is unimportant to GPs? We do not believe it is, and in the next section, we will argue that this difference between social workers and GPs reflect differences related to the professions’ different jurisdiction, tasks, and relationship with the clients.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Discussion</title>
+         <p>In this section, the second research question is discussed: How can the differences between social workers’ and GPs’ perceptions of non-problematic situations be analyzed theoretically. The differences are analyzed within a framework that highlights: 1) social workers’ and GPs’ different jurisdiction, 2) how these differences in jurisdiction affect the professional tasks performed by social workers and GPs, and 3) the factors that condition these professions’ encounters with their clients (see Table 2).</p>
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Jurisdiction and tasks</title>
+            <p>As mentioned earlier, the major difference between the two professions, in this study, was that social workers’ perceived that non-problematic situations were intimately linked to the control of the relationship with the client. In comparison, GPs perceived that non-problematic situations were linked to access to and use of professional knowledge.</p>
+            <p>To understand how two welfare state professions can have such different perceptions of non-problematic situations, we first turn our attention to the jurisdiction that their professional practice rests on. Within welfare states like Sweden, the state is a central actor in shaping the jurisdiction of welfare professions (<xref ref-type="bibr" rid="E2000">Evertsson, 2000</xref>). As these professions have close ties to the welfare state, it is not surprising to see certain similarities between them. One of these similarities is that the professional practice of social workers and GPs has a moral character (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>). Another similarity is that both professions are exercising public authority in relation to their clients (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="L2013">Levin, 2013</xref>; <xref ref-type="bibr" rid="SOU2003_30">SOU 2003:30</xref>, <xref ref-type="bibr" rid="SOU2003_30">2003</xref>). Despite these similarities, the jurisdiction of social workers and GPs differs in many respects. The two professions exercise public authority in different ways and to various extents in order to perform their professional tasks. One of the focal aspects of social work as a professional practice, especially relevant to social workers exercising public authority in personal social services, is the jurisdictional task to help clients to change or modify their behavior (<xref ref-type="bibr" rid="ASSR2013">Akademikerförbundet SSR, 2013</xref>; <xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="L2013">Levin, 2013</xref>; <xref ref-type="bibr" rid="S2015">Svensson, 2015</xref>). The social workers’ jurisdiction ultimately rests on their right to make decisions and take action that in specific cases go against the will of the clients, ultimately by the exercise of coercive means (<xref ref-type="bibr" rid="L2013">Levin, 2013</xref>). As mentioned earlier, the jurisdiction of GPs is also moral in its character. However, even though preventive medicine can be argued to have a moral character, the professional practice of GPs is generally more focused on changing the medical status of the patients than the patients’ way of life. Central to GPs’ jurisdictional tasks is to cure, relieve, and comfort on a voluntary basis (<xref ref-type="bibr" rid="ASSR2013">Akademikerförbundet SSR, 2013</xref>; <xref ref-type="bibr" rid="F1961">Freidson, 1961</xref>). Only in exceptional cases, GPs in Sweden are allowed to perform tasks which involve coercive interventions in a client’s life. To these exceptions belong, for instance, the Communicable Diseases Act and Care under Compulsory Psychiatric Care Act (<xref ref-type="bibr" rid="SOU2003_30">SOU 2003:30</xref>, <xref ref-type="bibr" rid="SOU2003_30">2003</xref>).</p>
+            <p>Given these differences in jurisdictional tasks, it could be argued that in non-problematic situations, it is of greater importance for social workers than GPs to control the relationship with the client in order to successfully fulfill their jurisdictional commitments (<xref ref-type="bibr" rid="B1957">Biestek, 1957</xref>). For social workers exercising public authority to change or modify clients’ behavior or lifestyle is a daunting task that becomes even harder in situations where clients oppose or reject such change. Against this background, it is understandable that social workers in this study perceived situations where clients acted responsibly and cooperated or where they could use coercive means as non-problematic.</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Professional technologies</title>
+         	<p>The different character of the social workers and GPs’ jurisdiction and tasks is reflected in the professional technologies that the professions rely on. Following Hasenfeld’s (<xref ref-type="bibr" rid="H1983">1983</xref>) typological concept of technology in his theory of human service organizations it could be argued that, given that one of the central tasks of professional social work involves changing or modifying clients’ problematic behavior or lifestyle, social workers heavily rely on interaction technologies and client control technologies. Social workers’ jurisdiction and professional tasks are thus based on the use of technologies in which the relationship to the client plays a central role. Once again, it is understandable why social workers in this study perceived situations where clients complied or could be brought under control as non-problematic.</p>
+            <p>Compared to social workers, the jurisdiction and professional tasks of GPs’ rest to a lesser extent on the exercise of public authority, which reduces the likelihood that the relationship between GPs and their clients becomes tension-filled in non-problematic situations (<xref ref-type="bibr" rid="F1961">see Freidson, 1961</xref>; <xref ref-type="bibr" rid="SOU2003_30">SOU 2003:30</xref>, <xref ref-type="bibr" rid="SOU2003_30">2003</xref>). It is reasonable to believe that clients of GPs more often seek help voluntarily than do clients of social workers, which means that in order to control the intervention process GPs in non-problematic situations do not need to make use of interaction and client control technologies as often as social workers (<xref ref-type="bibr" rid="F1961">Freidson, 1961</xref>). In the forefront of GPs’ jurisdiction and professional tasks is the improvement of clients’ clinical (medical) status, rather than the modification of the clients’ conduct if not changes in clients’ lifestyle are medically motivated. In non-problematic situations, the performance of tasks which involve working with clients’ medical status is, therefore, more likely to be a matter of applying medical knowledge rather than controlling the relationship with the client.</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Social workers’ and GPs’ encounters with clients</title>
+            <p>It is reasonable to believe that social workers and GPs’ different jurisdiction, tasks and use of technologies color their encounter with clients. Previous research shows that clients of social workers experience a lack of control of how and when to exit the relationship with social workers (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="H1970">Hirschman, 1970</xref>) and that many are involuntary in the sense that they only reluctantly seek help from social workers and do not wish to identify themselves with the social problems that social workers attribute to them, since many social problems are attached with shame and stigma, especially problems that the client is held accountable for (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="L2013">Levin, 2013</xref>; <xref ref-type="bibr" rid="SGWSCHEMHW2012">Smith et al., 2012</xref>). Claims from social workers to be the expert and holder of professional knowledge on the clients’ social problems are, therefore, often met with objection and distrust, and social workers constantly need to work actively to transform an institutionalized distrust into a trusting relationship with the client (<xref ref-type="bibr" rid="L2013">Levin, 2013</xref>; <xref ref-type="bibr" rid="SGWSCHEMHW2012">Smith et al., 2012</xref>). Against this background, it is not surprising that social workers can perceive cooperating and trusting clients or situations in which they can take coercive action as non-problematic.</p>
+            <p>The difference between the two professions can be understood when we consider that many clients of GPs often come voluntarily to seek help for their health problems (<xref ref-type="bibr" rid="F1961">Freidson, 1961</xref>). In comparison to many of the clients of social workers, they have greater control of their entry into and exit from the professional encounter (<xref ref-type="bibr" rid="F1961">Freidson, 1961</xref>). The relationships between GPs and their clients in non-problematic situations tend to be based on trust and “truce” (<xref ref-type="bibr" rid="NW1982">Nelson &amp; Winter, 1982</xref>), which means that the parties involved tend to try to downplay conflicts of interest and the power imbalance (<xref ref-type="bibr" rid="REFN2014">Rexvid et al., 2014</xref>). Moreover, in non-problematic situations, it is also common that clients and GPs are often in accord that it is the GP who is the expert, holder of professional knowledge and who should have the privilege of defining the client’s problems (<xref ref-type="bibr" rid="F1961">Freidson, 1961</xref>; <xref ref-type="bibr" rid="J1972">Johnson, 1972</xref>). Furthermore, medical diagnoses are, unlike social problems, more often detached from shame and stigma, and clients of GPs are, with the exception of lifestyle problems, not usually held responsible for their medical problems. For GPs, the problem to be managed is often the client’s medical condition rather than the clients’ behavior (<xref ref-type="bibr" rid="F1961">Freidson, 1961</xref>). Against this background, it is understandable that the GPs in our study perceived non-problematic situations to be a matter of utilization of professional knowledge rather than of controlling the relationship with the client.</p>
+            <p>To summarize, it is our understanding that the observed difference has something important to say about the conditions that shape the professional practice of social workers and GPs.</p>
+            <p>First, the emphasis social workers put on the relationship with the client reflects that professional social work practice or social workers’ professional tasks are to a considerable extent conditioned by the client and how the interaction between social workers and clients is played out. Seen from the perspective of professional social work practice, the relationship with the clients represents an element of uncertainty that needs to be managed (<xref ref-type="bibr" rid="JN2011">Jutel &amp; Nettleton, 2011</xref>). The greater the uncertainty about the client’s openness to change, motivation and cooperation, the greater the social workers’ need to control the relationship with the client (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>). Against this background, we argue that the relationship between social workers and their clients is at the heart of professional social work practice (<xref ref-type="bibr" rid="CG2009">Carla &amp; Grant, 2009</xref>; <xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>; <xref ref-type="bibr" rid="KP2009">Knei-Paz, 2009</xref>) and that control of the relationship with the client may constitute the single most important aspect of professional social work practice in non-problematic situations. It indicates that control of the relationship with the client is prior to and conditions social workers’ choice and use of professional knowledge and knowledge-based interventions. The professional practice of social workers and their tasks rest on different kinds of professional knowledge, but the possibility to use that knowledge is conditioned by having control of the relationship with the client in non-problematic situations. Put differently the professional social work practice rests on both social workers’ ability to control the relationship with the client and the use of professional knowledge. The same might be true of the professional practice of GPs, but we would argue, to a much lesser extent with regard to the relationship with clients. In comparison to the practice of social workers, it is the knowledge dimension of GPs’ professional practice and not the relational dimension that is stressed by GPs, since control of the relationship with the client is less likely to constitute a problem in non-problematic situations. Primarily they are applying professional knowledge to symptoms described by clients (<xref ref-type="bibr" rid="JN2011">Jutel &amp; Nettleton, 2011</xref>). In non-problematic situations, professional knowledge is the key asset to control the intervention process (<xref ref-type="bibr" rid="JN2011">Jutel &amp; Nettleton, 2011</xref>; <xref ref-type="bibr" rid="MS2010">Michailakis &amp; Schirmer, 2010</xref>) as the clients do not tend to disrupt GPs’ professional practice by questioning their expertise (<xref ref-type="bibr" rid="REFN2014">Rexvid et al., 2014</xref>). In such situations, GPs become aware that being in control of professional knowledge mean being in control of the intervention process.</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+         <!-- sec lvl 3 begin -->
+         <sec>
+            <title>Methodological and theoretical reflections</title>
+            <p>We believe that this study has something important to say about the different conditions that shape the professional practice of social workers and GPs. However, from a methodological perspective, it is important to consider that this study does not cover all areas of social workers’ and GPs’ practice. It is possible that our findings would have been somewhat different if we had studied areas of social work less characterized by the exercise of public authority such as preventive work or social support to the elderly and disabled. Therefore, when studying other areas of social and medical professional practice, our findings should only serve as a starting point for further investigation.</p>
+            <p>Although our aim has been to describe and analyze social workers’ and GPs’ perception of non-problematic situations, it is, given our findings and analysis, necessary to theoretically reflect on the concept of knowledge. We are aware that knowledge is a complex phenomenon that involves more than cognitive aspects. Furthermore, we recognize that social worker's ability to build and maintain supportive and meaningful relationships with involuntary or unmotivated clients can be considered as a matter of knowledge utilization. Despite this, we argue that it is sometimes important—as in this study—to make an analytical distinction between knowledge and relationship.</p>
+            <p>Our decision to make an analytical distinction between knowledge and relationship, as two different aspects of professional practice, is twofold. Our first reason is to remain close to our empirical data. In our empirical data GPs link problematic situations to knowledge, while social workers connect non-problematic situations to control of the relationship with the client. This means that the distinction between knowledge and relationship is present in on our empirical findings. We find it difficult to ignore this fact. The second reason is that the analytical distinction contributes to new knowledge by showing that there are different ways for professionals to gain control of the professional intervention process. For GPs professional knowledge seems to be a key tool to gain control of the intervention process while control over the relationship with clients seems to be of substantial importance for the social workers. Based on our findings we suggest that gaining control over the intervention process through establishing control of the relationship with the client represents another and different mode of professional control than the use of knowledge. Without an analytical distinction between knowledge and relationship, this insight would be lost.</p>
+         </sec>
+         <!-- sec lvl 3 end -->
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Conclusions</title>
+         <p>In this study, we have shown that non-problematic situations were perceived as situations where the professionals experienced that they had control of the intervention process but in different ways. More specifically the findings indicated that the two professions put different emphasis on the knowledge dimension and relational dimension of their practice.</p>
+      	<p>Our findings are both in accord with, and differ from previous research and theory, on professions. The results are consistent with previous research on professions by showing that professional knowledge is a key resource through which professions build jurisdiction and gain control over the intervention process (<xref ref-type="bibr" rid="A1988">see Abbott, 1988</xref>; <xref ref-type="bibr" rid="BJOS2015">Brante et al., 2015</xref>). However, this study has also shown that there are more ways for professions to establish control over the professional intervention process. Following Hasenfeld (<xref ref-type="bibr" rid="H1983">1983</xref>), we argue that control over the relationship with the client is essential to any profession that is engaged in changing or modifying clients’ moral conducts, problematic behaviors or lifestyles. In the article, we refer to this mode of control as the <italic>relational dimension </italic>of professional practice, and we understand client compliance to be a key mechanism (<xref ref-type="bibr" rid="H1983">Hasenfeld, 1983</xref>) to this mode of control.</p>
+         <p>However, this does not necessarily imply that professional knowledge is of less importance to professions where a core jurisdictional task is changing or modifying clients’ moral conducts, problematic behaviors or lifestyles. A more reasonable interpretation is that, for some professions, such as social workers, the use of professional knowledge is conditioned by the relationship with the client. Professions that are more likely to work with unmotivated, involuntary and non-compliant clients might find that their possibility to work in accordance with established professional methods, standards, guidelines or routine are conditioned by the relationship with the client.</p>
+         <p>Seen from this perspective, our findings are thought-provoking. They raise the question whether “more” and “better” knowledge, as a key component in the Swedish state’s knowledge governance (<xref ref-type="bibr" rid="A2015">Alm, 2015</xref>), is always the best way to go in order to improve professional practice. It also raises a question whether the strategy of enhancing professional practice through evidence-based knowledge and practices, guidelines and manuals, needs to be more sensitive towards different professions’ jurisdiction, that is, the character of their tasks, technologies and the character of their relationship with the client. Tension-filled relationships between professionals and clients can hamper the implementation of context-independent knowledge (<xref ref-type="bibr" rid="B2014">Brante, 2014</xref>) and condition professionals’ ability to use that knowledge.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Ethics</title>
+         <p>Ethical approval for this project was received from The Regional Ethical Review Board in Umeå, prior to the conduct of the study (reference number 2010-82-31).</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+      <!-- sec lvl 2 begin -->
+      <sec>
+         <title>Acknowledgment</title>
+         <p>The study is part of a larger research project titled “How do SWs and GPs use knowledge in practice” and funded by the Swedish Research Council for Health, Working Life and Welfare.</p>
+      </sec>
+      <!-- sec lvl 2 end -->
+   </body>
+   <back>
+      <fn-group>
+         <fn id="ftn1">
+            <p>
+               <sup/> Social worker</p>
+         </fn>
+         <fn id="ftn2">
+            <p>
+               <sup/> General practitioner</p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <ref id="AKWL2001"><!--Aaker, E., Knudsen, A., Wynn, R. & Lund, A. (2001). General practitioners’ reactions to non-compliant patients. <italic>Scandinavian Journal of Primary Health Care. 19</italic>(2), 103-106. <uri>http://dx.doi.org/10.1080/028134301750235330</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aaker</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Knudsen</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wynn</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Lund</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>General practitioners’ reactions to non-compliant patients.</article-title>
+               <source>Scandinavian Journal of Primary Health Care</source>
+               <volume>19</volume>
+               <issue>2</issue>
+               <fpage>103</fpage>
+               <lpage>106</lpage>
+               <uri>http://dx.doi.org/10.1080/028134301750235330</uri>
+            </element-citation>
+         </ref>
+         <ref id="A1988"><!--Abbott, A. (1988). <italic>The system of professions. An essay on the division of expert labor</italic>. London: The University of Chicago Press.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Abbott</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>1988</year>
+               <source>The system of professions. An essay on the division of expert labor</source>
+               <publisher-loc>London</publisher-loc>
+               <publisher-name>The University of Chicago Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="ASSR2013"><!--Akademikerförbundet SSR. (2013). <italic>Etik i socialt arbete: etisk kod för socialarbetare</italic> [Ethic in social work: ethical codes for social workers]. Stockholm: Akademikerförbundet SSR.-->
+            <mixed-citation publication-type="book" publication-format="print">Akademikerförbundet SSR. (2013). <italic>Etik i socialt arbete: etisk kod för socialarbetare</italic> [Ethic in social work: ethical codes for social workers]. Stockholm: Akademikerförbundet SSR.</mixed-citation>
+         </ref>
+         <ref id="A2015"><!--Alm, M. (2015). <italic>När kunskap ska styra.Om organisatoriska och professionella villkor för kunskapsstyrning inom missbruksvården </italic>[When knowledge is the ruling force. On organizational and professional conditions for knowledge governance in substance abuse treatment] (Doctoral dissertation). University of Växjö, Växjö.-->
+            <element-citation publication-type="journal" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alm</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title> </article-title>
+               <source xml:lang="sv">När kunskap ska styra.Om organisatoriska och professionella villkor för kunskapsstyrning inom missbruksvården</source>
+               <trans-source xml:lang="en">[When knowledge is the ruling force. On organizational and professional conditions for knowledge governance in substance abuse treatment] (Doctoral dissertation). University of Växjö, Växjö.</trans-source>
+            </element-citation>
+         </ref>
+         <ref id="AK2007"><!--Alvesson, M. & Kärreman, D. (2007). Empirical matters in theory development. <italic>Academy of Management Review, 32</italic>(4), 1265-1281. <uri>http://dx.doi.org/10.5465/AMR.2007.26586822</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alvesson</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kärreman</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Empirical matters in theory development.</article-title>
+               <source>Academy of Management Review</source>
+               <volume>32</volume>
+               <issue>4</issue>
+               <fpage>1265</fpage>
+               <lpage>1281</lpage>
+               <uri>http://dx.doi.org/10.5465/AMR.2007.26586822</uri>
+            </element-citation>
+         </ref>
+         <ref id="B1957"><!--Biestek, F. P. (1957). <italic>The casework relationship</italic>. Chicago, Ill.: Loyola U.P.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Biestek</surname>
+                     <given-names>F. P.</given-names>
+                  </name>
+               </person-group>
+               <year>1957</year>
+               <source>The casework relationship</source>
+               <publisher-loc>Chicago, Ill.</publisher-loc>
+               <publisher-name>Loyola U.P</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="BMP2011"><!--Blom, B., Morén, S., & Perlinski, M. (2011). Hur bör socialtjänstens IFO organiseras? [How personal social services ought to be organised?]. <italic>Socionomen, 4</italic>, 12-16. Retrieved from <uri>http://umu.diva-portal.org/smash/record.jsf?pid=diva2%3A419713&dswid=9306</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Blom</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Morén</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Perlinski</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title xml:lang="sv">Hur bör socialtjänstens IFO organiseras?</article-title>
+               <trans-title xml:lang="en">How personal social services ought to be organised?</trans-title>
+               <source>Socionomen</source>
+               <volume>4</volume>
+               <fpage>12</fpage>
+               <lpage>16</lpage>
+               <uri>http://umu.diva-portal.org/smash/record.jsf?pid=diva2%3A419713&amp;dswid=9306</uri>
+            </element-citation>
+         </ref>
+         <ref id="B2014"><!--Brante, T. (2014). <italic>Den professionella logiken: hur vetenskap och praktik förenas i det moderna kunskapssamhället </italic>[The professional logic: how science and practice unite in the modern knowledge society] (1st ed.). Stockholm: Liber.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brante</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source xml:lang="sv">Den professionella logiken: hur vetenskap och praktik förenas i det moderna kunskapssamhället</source>
+               <trans-source xml:lang="en">The professional logic: how science and practice unite in the modern knowledge society</trans-source>
+               <publisher-loc>Stockholm</publisher-loc>
+               <publisher-name>Liber</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="BJOS2015"><!--Brante, T., Johnsson, E., Olofsson, G., & Svensson, L. G. (2015). <italic>Professionerna i kunskapssamhället: en jämförande studie av svenska professioner </italic>[The professions in knowledge society: a comparative study of Swedish professions] (1st ed.). Stockholm: Liber.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brante</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnsson</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Olofsson</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Svensson</surname>
+                     <given-names>L. G.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source xml:lang="sv">Professionerna i kunskapssamhället: en jämförande studie av svenska professioner</source>
+               <trans-source xml:lang="en">The professions in knowledge society: a comparative study of Swedish professions</trans-source>
+               <publisher-loc>Stockholm</publisher-loc>
+               <publisher-name>Liber</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="BNKZ2003"><!--Bremberg, S., Nilstun, N., Kovaca, V., & Zwittera, M. (2003). GPs facing reluctant and demanding patients: analysing ethical justifications. <italic>Family Practice, 20</italic>(3), 254-61. <uri>http://dx.doi.org/10.1093/fampra/cmg305</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bremberg</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nilstun</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kovaca</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zwittera</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>GPs facing reluctant and demanding patients: analysing ethical justifications.</article-title>
+               <source>Family Practice</source>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>254</fpage>
+               <lpage>61</lpage>
+               <uri>http://dx.doi.org/10.1093/fampra/cmg305</uri>
+            </element-citation>
+         </ref>
+         <ref id="C2008"><!--Calder, M. C. (Ed.). (2008). <italic>The Carrot or the stick? Towards effective practice with involuntary clients in safeguarding children work</italic>. Lyme Regis: Russell House Publishing.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Calder</surname>
+                     <given-names>M. C.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>The Carrot or the stick? Towards effective practice with involuntary clients in safeguarding children work</source>
+               <publisher-loc>Lyme Regis</publisher-loc>
+               <publisher-name>Russell House Publishing</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="CG2009"><!--Carla, A., & Grant, C. (2009). Caring, mutuality and reciprocity in social worker client relationships: Rethinking principles of practice. <italic>Journal of Social Work, 9</italic>(1), 5-22. <uri>http://dx.doi.org/10.1177/1468017308098420</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Carla</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Grant</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Caring, mutuality and reciprocity in social worker client relationships: Rethinking principles of practice.</article-title>
+               <source>Journal of Social Work</source>
+               <volume>9</volume>
+               <issue>1</issue>
+               <fpage>5</fpage>
+               <lpage>22</lpage>
+               <uri>http://dx.doi.org/10.1177/1468017308098420</uri>
+            </element-citation>
+         </ref>
+         <ref id="DN2005"><!--Dunér, A., & Nordström, M. (2005). <italic>Biståndshandläggningens villkor och dilemma </italic>[The conditions and dilemmas of aid administrators]<italic>. </italic>Sweden,<italic> </italic>Lund: Studentlitteratur.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dunér</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nordström</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source xml:lang="sv">Biståndshandläggningens villkor och dilemma</source>
+               <trans-source xml:lang="en">The conditions and dilemmas of aid administrators</trans-source>
+               <publisher-loc>Lund</publisher-loc>
+               <publisher-name>Studentlitteratur</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="E1994"><!--Eraut, M. (1994). <italic>Developing professional knowledge and competence</italic>. London: Falmer Press.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Eraut</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <source>Developing professional knowledge and competence</source>
+               <publisher-loc>London</publisher-loc>
+               <publisher-name>Falmer Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="E2000"><!--Evertsson, L. (2000). The Swedish welfare state and the emergence of female welfare state occupations. <italic>Gender, Work and Organization, 7</italic>(4), 230-241. <uri>http://dx.doi.org/10.1111/1468-0432.00111</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Evertsson</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>The Swedish welfare state and the emergence of female welfare state occupations.</article-title>
+               <source>Gender, Work and Organization</source>
+               <volume>7</volume>
+               <issue>4</issue>
+               <fpage>230</fpage>
+               <lpage>241</lpage>
+               <uri>http://dx.doi.org/10.1111/1468-0432.00111</uri>
+            </element-citation>
+         </ref>
+         <ref id="F1961"><!--Freidson, E. (1961). <italic>Patients’ views of medical practice. </italic>New York: Russell Sage Foundation.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Freidson</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>1961</year>
+               <source>Patients’ views of medical practice.</source>
+               <publisher-loc>York</publisher-loc>
+               <publisher-name>Russell Sage Foundation</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="GZ2002"><!--Glouberman, S., & Zimmerman, B. (2002). <italic>Complicated and complex systems: What would successful reform of Medicare look like?</italic> Commission on the Future of Health Care in Canada, Discussion Paper 8. Retrieved from <uri>http://c.ymcdn.com/sites/www.plexusinstitute.org/resource/collection/6528ED29-9907-4BC7-8D00-8DC907679FED/ComplicatedAndComplexSystems-ZimmermanReport_Medicare_reform.pdf</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Glouberman</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zimmerman</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <article-title> </article-title>
+               <source>Complicated and complex systems: What would successful reform of Medicare look like?</source>
+               <uri>http://c.ymcdn.com/sites/www.plexusinstitute.org/resource/collection/6528ED29-9907-4BC7-8D00-8DC907679FED/ComplicatedAndComplexSystems-ZimmermanReport_Medicare_reform.pdf</uri>
+            </element-citation>
+         </ref>
+         <ref id="H1983"><!--Hasenfeld, Y. (1983). <italic>Human service organizations</italic>. Englewood Cliffs, N.J.: Prentice-Hall.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hasenfeld</surname>
+                     <given-names>Y.</given-names>
+                  </name>
+               </person-group>
+               <year>1983</year>
+               <source>Human service organizations</source>
+               <publisher-loc>Englewood Cliffs, N.J.</publisher-loc>
+               <publisher-name>Prentice-Hall</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="H1970"><!--Hirschman, A. O. (1970). <italic>Exit, voice, and loyalty: responses to decline in firms, organizations, and states</italic>. Cambridge, Mass.: Harvard Univiverstity Press.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hirschman</surname>
+                     <given-names>A. O.</given-names>
+                  </name>
+               </person-group>
+               <year>1970</year>
+               <source>Exit, voice, and loyalty: responses to decline in firms, organizations, and states</source>
+               <publisher-loc>Cambridge, Mass.</publisher-loc>
+               <publisher-name>Harvard Univiverstity Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="HS2005"><!--Hsieh, H. F., & Shannon, S. E. (2005). Three approaches to qualitative content analysis. <italic>Qualitative Health Research, 15</italic>(9), 1277-1288. <uri>http://dx.doi.org/10.1177/1049732305276687</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hsieh</surname>
+                     <given-names>H. F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Shannon</surname>
+                     <given-names>S. E.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Three approaches to qualitative content analysis.</article-title>
+               <source>Qualitative Health Research</source>
+               <volume>15</volume>
+               <issue>9</issue>
+               <fpage>1277</fpage>
+               <lpage>1288</lpage>
+               <uri>http://dx.doi.org/10.1177/1049732305276687</uri>
+            </element-citation>
+         </ref>
+         <ref id="J1972"><!--Johnson, T. J. (1972). <italic>Professions and power.</italic> London: Macmillan.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>T. J.</given-names>
+                  </name>
+               </person-group>
+               <year>1972</year>
+               <source>Professions and power.</source>
+               <publisher-loc>London</publisher-loc>
+               <publisher-name>Macmillan</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="JN2011"><!--Jutel, A., & Nettleton, S. (2011). Towards a sociology of diagnosis: Reflections and opportunities.<italic> Social Science & Medicine, 73</italic>(6), 793-800. <uri>http://dx.doi.org/10.1016/j.socscimed.2011.07.014</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jutel</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nettleton</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Towards a sociology of diagnosis: Reflections and opportunities.</article-title>
+               <source>Social Science &amp; Medicine</source>
+               <volume>73</volume>
+               <issue>6</issue>
+               <fpage>793</fpage>
+               <lpage>800</lpage>
+               <uri>http://dx.doi.org/10.1016/j.socscimed.2011.07.014</uri>
+            </element-citation>
+         </ref>
+         <ref id="KP2009"><!--Knei-Paz, C. (2009). The central role of the therapeutic bond in a social agency setting: Clients’ and social workers’ perceptions. <italic>Journal of Social Work,</italic> <italic>9</italic>(2), 178-198. <uri>http://dx.doi.org/10.1177/1468017308101821</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Knei-Paz</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>The central role of the therapeutic bond in a social agency setting: Clients’ and social workers’ perceptions.</article-title>
+               <source>Journal of Social Work,</source>
+               <issue>2</issue>
+               <fpage>178</fpage>
+               <lpage>198</lpage>
+               <uri>http://dx.doi.org/10.1177/1468017308101821</uri>
+            </element-citation>
+         </ref>
+         <ref id="L2013"><!--Levin, C. (2013). Socialt arbete som moralisk praktik [Social work as moral practice]. In S. Linde & K. Svensson (Eds.), <italic>Förändringens entreprenörer och tröghetens agenter: människobehandlande organisationer ur ett nyinstitutionellt perspektiv</italic> [The entrepreneurs of change and the agents of interia: human service organisations from a new institutional perspective] (pp. 25-41). Stockholm: Liber.-->
+            <element-citation publication-type="book-chapter" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Levin</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <chapter-title xml:lang="sv">Socialt arbete som moralisk praktik</chapter-title>
+               <trans-title xml:lang="en">Social work as moral practice</trans-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Linde</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Svensson</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <source xml:lang="sv">Förändringens entreprenörer och tröghetens agenter: människobehandlande organisationer ur ett nyinstitutionellt perspektiv</source>
+               <trans-source xml:lang="en">The entrepreneurs of change and the agents of interia: human service organisations from a new institutional perspective</trans-source>
+               <fpage>25</fpage>
+               <lpage>41</lpage>
+               <publisher-loc>Stockholm</publisher-loc>
+               <publisher-name>Liber</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="L2010"><!--Lipsky, M. (2010). <italic>Street-level bureaucracy: Dilemmas of the individual in public services(30th anniversary expanded edition)</italic>. New York, NY: Russell Sage Foundation.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lipsky</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Street-level bureaucracy: Dilemmas of the individual in public services(30th anniversary expanded edition)</source>
+               <publisher-loc>New York, NY</publisher-loc>
+               <publisher-name>Russell Sage Foundation</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="MS2010"><!--Michailakis, D., & Schirmer, W. (2010). Agents of their health? How the Swedish welfare state introduces expectations of individual responsibility, <italic>Sociology of Health and Illness, 32</italic>(6), 930-47. <uri>http://dx.doi.org/10.1111/j.1467-9566.2010.01262.x</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Michailakis</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Schirmer</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Agents of their health? How the Swedish welfare state introduces expectations of individual responsibility,</article-title>
+               <source>Sociology of Health and Illness</source>
+               <volume>32</volume>
+               <issue>6</issue>
+               <fpage>930</fpage>
+               <lpage>47</lpage>
+               <uri>http://dx.doi.org/10.1111/j.1467-9566.2010.01262.x</uri>
+            </element-citation>
+         </ref>
+         <ref id="MT2010"><!--Molander, A., & Terum, L. I. (2010). Profesjonsstudier – en introduksjon [Studies in professios – an introduction]. In A. Molander & L. I. Terum (Eds.), <italic>Profesjonsstudier </italic>[Studies in professions] (pp. 13-27). Oslo: Universitetsforlaget.-->
+            <element-citation publication-type="book-chapter" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Molander</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Terum</surname>
+                     <given-names>L. I.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <chapter-title xml:lang="no">Profesjonsstudier – en introduksjon</chapter-title>
+               <trans-title xml:lang="en">Studies in professios – an introduction</trans-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Molander</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Terum</surname>
+                     <given-names>L. I.</given-names>
+                  </name>
+               </person-group>
+               <source xml:lang="no">Profesjonsstudier</source>
+               <trans-source xml:lang="en">Studies in professions</trans-source>
+               <fpage>13</fpage>
+               <lpage>27</lpage>
+               <publisher-loc>Oslo</publisher-loc>
+               <publisher-name>Universitetsforlaget</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="M2000"><!--Mosesson, M. (2000). Intervention. In V. Denvall & T. Jacobson (Eds.), <italic>Var- dagsbegrepp i socialt arbete. Ideologi, teori och praktik </italic>[Everyday concepts in social work. Ideology, theory and practice] (pp. 223-240). Stockholm: Norstedts Juridik.-->
+            <element-citation publication-type="book-chapter" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mosesson</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <chapter-title>Intervention</chapter-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Denvall</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Jacobson</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <source xml:lang="sv">Var- dagsbegrepp i socialt arbete. Ideologi, teori och praktik</source>
+               <trans-source xml:lang="en">Everyday concepts in social work. Ideology, theory and practice</trans-source>
+               <fpage>223</fpage>
+               <lpage>240</lpage>
+               <publisher-loc>Stockholm</publisher-loc>
+               <publisher-name>Norstedts Juridik</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="NW1982"><!--Nelson, R. R., & Winter, S. G. (1982). <italic>An evolutionary theory of economic change</italic>. Cambridge, MA: Harvard University Press.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nelson</surname>
+                     <given-names>R. R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Winter</surname>
+                     <given-names>S. G.</given-names>
+                  </name>
+               </person-group>
+               <year>1982</year>
+               <source>An evolutionary theory of economic change</source>
+               <publisher-loc>Cambridge, MA</publisher-loc>
+               <publisher-name>Harvard University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="P2002"><!--Patton, M. Q. (2002). <italic>Qualitative evaluation and research methods</italic>. London: Sage.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Patton</surname>
+                     <given-names>M. Q.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Qualitative evaluation and research methods</source>
+               <publisher-loc>London</publisher-loc>
+               <publisher-name>Sage</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="P2014"><!--Perrow, C. (2014). <italic>Complex organizations: a critical essay</italic> (3rd ed.). New York: McGraw-Hill.-->
+            <element-citation publication-type="book" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Perrow</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>Complex organizations: a critical essay</source>
+               <edition>3</edition>
+               <publisher-loc>New York</publisher-loc>
+               <publisher-name>McGraw-Hill</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="REFN2014"><!--Rexvid, D., Evertsson, L., Forssén, A., & Nygren, L. (2014). The precarious character of routine practice in social and primary health care. <italic>Journal of Social Work, 15</italic>(3), 317-336. <uri>http://dx.doi.org/10.1177/1468017314548121</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rexvid</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Evertsson</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Forssén</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nygren</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>The precarious character of routine practice in social and primary health care.</article-title>
+               <source>Journal of Social Work</source>
+               <volume>15</volume>
+               <issue>3</issue>
+               <fpage>317</fpage>
+               <lpage>336</lpage>
+               <uri>http://dx.doi.org/10.1177/1468017314548121</uri>
+            </element-citation>
+         </ref>
+         <ref id="S1992"><!--Shanteau, J. (1992). Cometence in experts: The role of task characteristics. <italic>Organizational Behavior and Human Decision Processes,53</italic>(2), 252-266. <uri>http://dx.doi.org/10.1016/0749-5978(92)90064-E</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shanteau</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1992</year>
+               <article-title>Cometence in experts: The role of task characteristics.</article-title>
+               <source>Organizational Behavior and Human Decision Processes</source>
+               <volume>53</volume>
+               <issue>2</issue>
+               <fpage>252</fpage>
+               <lpage>266</lpage>
+               <uri>http://dx.doi.org/10.1016/0749-5978(92)90064-E</uri>
+            </element-citation>
+         </ref>
+         <ref id="SGWSCHEMHW2012"><!--Smith, M., Gallagher, M., Wosu, H., Stewart, J., Cree, V. E., Hunter, S., Evans, S., Montgomery, C., Holiday, S., & Wilkinson, H. (2012). Engaging with involuntary service users in social work: Findings from a knowledge exchange project. <italic>British Journal of Social Work, 42</italic> (8), 1460-1477. <uri>http://dx.doi.org/10.1093/bjsw/bcr162</uri>-->
+            <element-citation publication-type="journal" publication-format="web">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gallagher</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wosu</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Stewart</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Cree</surname>
+                     <given-names>V. E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hunter</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Evans</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Montgomery</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Holiday</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wilkinson</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Engaging with involuntary service users in social work: Findings from a knowledge exchange project.</article-title>
+               <source>British Journal of Social Work</source>
+               <volume>42</volume>
+               <issue>8</issue>
+               <fpage>1460</fpage>
+               <lpage>1477</lpage>
+               <uri>http://dx.doi.org/10.1093/bjsw/bcr162</uri>
+            </element-citation>
+         </ref>
+         <ref id="SOU2003_30"><!--SOU 2003:30. (2003). <italic>Läkare i allmän tjänst </italic>[Doctors in general practice]<italic>.</italic> Stockholm: Fritzes offentliga publikationer. Retrived from <uri>https://data.riksdagen.se/fil/09A427CB-E9AD-4AF4-9E40-0A731DD99071</uri>-->
+            <mixed-citation publication-type="book" publication-format="web">SOU 2003:30. (2003). <italic>Läkare i allmän tjänst </italic>[Doctors in general practice]<italic>.</italic> Stockholm: Fritzes offentliga publikationer. Retrived from <uri>https://data.riksdagen.se/fil/09A427CB-E9AD-4AF4-9E40-0A731DD99071</uri>
+            </mixed-citation>
+         </ref>
+         <ref id="S2004"><!--Socialstyrelsen. (2004). <italic>Socialt arbete med barn och unga i utsatta situationer: förslag till kompetensbeskrivningar </italic>[Social work with children and young people in exposed situations: proposals for competence descriptions]. Stockholm: Socialstyrelsen.-->
+            <mixed-citation publication-type="book" publication-format="print">Socialstyrelsen. (2004). <italic>Socialt arbete med barn och unga i utsatta situationer: förslag till kompetensbeskrivningar </italic>[Social work with children and young people in exposed situations: proposals for competence descriptions]. Stockholm: Socialstyrelsen.</mixed-citation>
+         </ref>
+         <ref id="S2015"><!--Svensson, G. (2015). Rättslig reglering av människobehandlande organisationer [Legal regulation of human service organisations]. In S. Johansson, P. Dellgran, & S. Höjer (Eds.), <italic>Människobehandlande organisationer. Villkor för ledning, styrning och professionellt välfärdsarbete </italic>[Human service organisations. Conditions for management, control and welfare work] (pp. 166-193)<italic>. </italic>Stockholm: Natur och Kultur.-->
+            <element-citation publication-type="book-chapter" publication-format="print">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Svensson</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <chapter-title xml:lang="sv">Rättslig reglering av människobehandlande organisationer</chapter-title>
+               <trans-title xml:lang="en">Legal regulation of human service organisations</trans-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Johansson</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Dellgran</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname/>
+                     <given-names/>
+                  </name>
+                  <name>
+                     <surname>Höjer</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <source xml:lang="sv">Människobehandlande organisationer. Villkor för ledning, styrning och professionellt välfärdsarbete</source>
+               <trans-source xml:lang="en">Human service organisations. Conditions for management, control and welfare work</trans-source>
+               <fpage>166</fpage>
+               <lpage>193</lpage>
+               <publisher-loc>Stockholm</publisher-loc>
+               <publisher-name>Natur och Kultur</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
+

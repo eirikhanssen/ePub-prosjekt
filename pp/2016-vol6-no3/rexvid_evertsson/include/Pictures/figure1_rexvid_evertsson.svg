@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="760"
+   height="480"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.4,0.4)"
+         id="path4069"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3933"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       markerWidth="33.1875"
+       markerHeight="39.101063"
+       orient="auto"
+       id="marker4366">
+      <path
+         d="M -16.134445,-18.857425 5e-6,19.206445 l 16.13444,-38.41289"
+         id="path4364"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </marker>
+    <marker
+       markerWidth="8.75"
+       markerHeight="9.1875"
+       orient="auto"
+       id="marker5137">
+      <path
+         d="M -3.524315,3.909695 -5e-6,1.954845 1.762155,0.977415 2.643235,0.488705 3.083775,0.244355 3.304045,0.122175 3.524315,-4.9999999e-6 3.304045,-0.122185 l -0.22027,-0.12218 -0.44054,-0.24435 -0.88108,-0.48871 -1.76216,-0.97743 -3.52431,-1.95484"
+         id="path5133"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </marker>
+    <marker
+       markerWidth="10.82452"
+       markerHeight="9.2179003"
+       orient="auto"
+       id="marker6087">
+      <g
+         transform="translate(-444.93966,-804.95915)"
+         id="g6077">
+        <path
+           d="m 439.5274,800.3502 10.82452,0 0,9.2179 -10.82452,0 z"
+           id="rect6074"
+           style="color:#000000;fill:#ffffff;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           d="m 440.29373,808.86885 3.52431,-1.95485 1.76216,-0.97743 0.88108,-0.48871 0.44054,-0.24435 0.22027,-0.12218 0.22027,-0.12218 -0.22027,-0.12218 -0.22027,-0.12218 -0.44054,-0.24435 -0.88108,-0.48871 -1.76216,-0.97743 -3.52431,-1.95484"
+           id="path6072"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </marker>
+    <marker
+       markerWidth="8.65625"
+       markerHeight="8.78125"
+       orient="auto"
+       id="marker6485">
+      <path
+         d="m -4.046875,-4.390625 -0.28125,0.46875 c 0,0 3.41946,2.06853 5.75,3.40625 l -4.84375,0 a 0.50005,0.50005 0 0 0 -0.15625,0 0.50606671,0.50606671 0 1 0 0.15625,1 l 4.84375,0 c -2.32992,1.33876 -5.75,3.4375 -5.75,3.4375 l 0.28125,0.46875 c 0,0 5.09266,-2.5854 7.59375,-3.96875 l 0.78125,-0.4375 -0.78125,-0.4375 c -2.49506,-1.39418 -7.59375,-3.9375 -7.59375,-3.9375 z"
+         id="path6483"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    </marker>
+    <marker
+       markerWidth="9.59375"
+       markerHeight="9.84375"
+       orient="auto"
+       id="marker7080">
+      <path
+         d="m -4.078125,-4.921875 -0.71875,1.3125 0.65625,0.34375 4.5,2.53125 -3.03125,0 a 0.750075,0.750075 0 0 0 -0.125,0 0.75259966,0.75259966 0 1 0 0.125,1.5 l 3.03125,0 -4.5,2.5 -0.65625,0.34375 0.71875,1.3125 0.65625,-0.34375 7.0625,-3.90625 1.15625,-0.65625 -1.15625,-0.65625 -7.0625,-3.9375 -0.65625,-0.34375 z"
+         id="path7078"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    </marker>
+    <marker
+       markerWidth="10.019317"
+       markerHeight="9.84375"
+       orient="auto"
+       id="marker7499">
+      <path
+         d="m -3.8653415,-4.921825 -0.71875,1.3125 0.65625,0.34375 4.49999996,2.53125 0.375,0.21875 -5.40624996,0 a 0.50005,0.50005 0 0 0 -0.0937,0 0.50219246,0.50219246 0 1 0 0.0937,1 l 5.46875,0 0,0.0312 -0.43750004,0.25 -4.49999996,2.5 -0.65625,0.34375 0.71875,1.3125 0.65625,-0.34375 7.0625,-3.90625 1.15625,-0.65625 -1.15625,-0.65625 -7.0625,-3.9375 -0.65625,-0.34375 z"
+         id="path7497"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    </marker>
+    <marker
+       markerWidth="10.019317"
+       markerHeight="9.84375"
+       orient="auto"
+       id="marker7502">
+      <path
+         d="m -3.8653415,-4.921825 -0.71875,1.3125 0.65625,0.34375 4.49999996,2.53125 -0.125,0.21875 -4.90624996,0 a 0.50005,0.50005 0 0 0 -0.0937,0 0.50219246,0.50219246 0 1 0 0.0937,1 l 4.87499996,0 0,0.0312 0.15625,0.25 -4.49999996,2.5 -0.65625,0.34375 0.71875,1.3125 0.65625,-0.34375 7.0625,-3.90625 1.15625,-0.65625 -1.15625,-0.65625 -7.0625,-3.9375 -0.65625,-0.34375 z"
+         id="path7495"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+  </metadata>
+  <g
+     transform="translate(14.849243,-491.75201)"
+     id="layer1">
+    <rect
+       width="760"
+       height="480"
+       x="-14.849243"
+       y="491.75201"
+       id="rect8181"
+       style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 442.2988,380.6982 0,-29.4009"
+       transform="translate(0,452.36218)"
+       id="path6284"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#marker6087);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       transform="translate(-9.0584056,-6.6295665)"
+       id="g8183">
+      <text
+         x="8.7078295"
+         y="735.16132"
+         id="text2985"
+         xml:space="preserve"
+         style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial Bold"><tspan
+           x="8.7078295"
+           y="735.16132"
+           id="tspan2987">Non-problematic</tspan><tspan
+           x="8.7078295"
+           y="762.3324"
+           id="tspan2989">situations</tspan></text>
+      <text
+         x="249.06316"
+         y="639.85571"
+         id="text3759"
+         xml:space="preserve"
+         style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial Bold"><tspan
+           x="249.06316"
+           y="639.85571"
+           id="tspan3763">SWs</tspan></text>
+      <text
+         x="249.06316"
+         y="858.44733"
+         id="text3767"
+         xml:space="preserve"
+         style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial Bold"><tspan
+           x="249.06316"
+           y="858.44733"
+           id="tspan3769">GPs</tspan></text>
+      <text
+         x="316.42856"
+         y="858.65619"
+         id="text3777"
+         xml:space="preserve"
+         style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           x="316.42856"
+           y="858.65619"
+           id="tspan3781">Competent GPs</tspan></text>
+      <text
+         x="546.42859"
+         y="680.93359"
+         id="text3799"
+         xml:space="preserve"
+         style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           x="546.42859"
+           y="680.93359"
+           id="tspan3803">Risky behavior</tspan></text>
+      <g
+         id="g3887">
+        <text
+           x="546.42859"
+           y="781.64783"
+           id="text3807"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="546.42859"
+             y="781.64783"
+             id="tspan3809">Knowledge to interpret </tspan><tspan
+             x="546.42859"
+             y="808.81891"
+             id="tspan3811">medical signs</tspan></text>
+        <text
+           x="546.42859"
+           y="850.87659"
+           id="text3832"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="546.42859"
+             y="850.87659"
+             id="tspan3836">Knowledge to diagnose</tspan></text>
+        <text
+           x="546.42859"
+           y="892.93433"
+           id="text3840"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="546.42859"
+             y="892.93433"
+             id="tspan3842">Knowledge to treat</tspan></text>
+        <text
+           x="546.42859"
+           y="935.21924"
+           id="text3844"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="546.42859"
+             y="935.21924"
+             id="tspan3846">Knowledge to refer</tspan></text>
+      </g>
+      <g
+         id="g3906">
+        <text
+           x="316.42856"
+           y="682.89642"
+           id="text3771"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="316.42856"
+             y="682.89642"
+             id="tspan3775">Left with no choice</tspan></text>
+        <text
+           x="316.42856"
+           y="591.76147"
+           id="text3848"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="316.42856"
+             y="591.76147"
+             id="tspan3856">Competent Clients</tspan></text>
+      </g>
+      <g
+         id="g3898">
+        <text
+           x="546.42859"
+           y="553.79071"
+           id="text3785"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="546.42859"
+             y="553.79071"
+             id="tspan3789">Motivated</tspan></text>
+        <text
+           x="546.42859"
+           y="589.91223"
+           id="text3793"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="546.42859"
+             y="589.91223"
+             id="tspan3797">Change-minded</tspan></text>
+        <text
+           x="545.89246"
+           y="629.505"
+           id="text3883"
+           xml:space="preserve"
+           style="font-size:18.61031151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:146.00000381%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="545.89246"
+             y="629.505"
+             id="tspan3885">Responsible</tspan></text>
+      </g>
+      <path
+         d="m 170.26139,781.22596 54.34594,48.96476"
+         id="path8103"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#TriangleOutM);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 495.89512,584.00783 19.64318,0"
+         id="path8105"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#TriangleOutM);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 495.89512,674.5175 19.64318,0"
+         id="path8107"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#TriangleOutM);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 495.89512,853.73098 19.64318,0"
+         id="path8109"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#TriangleOutM);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         transform="translate(-1.4142136,8.4852813)"
+         id="g8117">
+        <path
+           d="m 548.71486,523.09276 -7.03934,1.88618 0,49.73261 -5.08972,1.36379"
+           id="path8111"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <use
+           transform="matrix(1,0,0,-1,0,1152.5546)"
+           id="use8115"
+           x="0"
+           y="0"
+           width="800"
+           height="600"
+           xlink:href="#path8111" />
+      </g>
+      <g
+         id="g8137">
+        <path
+           d="m 547.30065,658.1306 -7.03934,1.88618 0,12.98261 -5.08972,1.36379"
+           id="path8129"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <use
+           transform="matrix(1,0,0,-1,0,1349.2438)"
+           id="use8135"
+           x="0"
+           y="0"
+           width="800"
+           height="600"
+           xlink:href="#path8129" />
+      </g>
+      <g
+         id="g8151">
+        <path
+           d="m 547.30065,759.61998 -7.03934,1.88618 0,89.68414 -5.08972,1.36379"
+           id="path8143"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <use
+           transform="matrix(1,0,0,-1,0,1704.8051)"
+           id="use8149"
+           x="0"
+           y="0"
+           width="800"
+           height="600"
+           xlink:href="#path8143" />
+      </g>
+      <g
+         transform="translate(0,4.5961941)"
+         id="g8165">
+        <path
+           d="m 311.83409,569.40825 -7.03934,1.88618 0,55.74302 -5.08972,1.36379"
+           id="path8157"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <use
+           transform="matrix(1,0,0,-1,0,1257.2065)"
+           id="use8163"
+           x="0"
+           y="0"
+           width="800"
+           height="600"
+           xlink:href="#path8157" />
+      </g>
+      <g
+         transform="translate(-234.05234,177.4838)"
+         id="g8169">
+        <path
+           d="m 547.30065,658.1306 -7.03934,1.88618 0,12.98261 -5.08972,1.36379"
+           id="path8171"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <use
+           transform="matrix(1,0,0,-1,0,1349.2438)"
+           id="use8173"
+           x="0"
+           y="0"
+           width="800"
+           height="600"
+           xlink:href="#path8129" />
+      </g>
+      <path
+         d="M 170.26139,711.46976 224.60733,662.505"
+         id="path8179"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#TriangleOutM);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>

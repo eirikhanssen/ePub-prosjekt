@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <marker id="g" orient="auto" overflow="visible">
+      <path fill="#4f81bd" fill-rule="evenodd" stroke="#4f81bd" stroke-width=".2pt" d="M.98 0c0 .552-.448 1-1 1s-1-.448-1-1 .448-1 1-1 1 .448 1 1z"/>
+    </marker>
+    <marker id="h" orient="auto" overflow="visible">
+      <path fill="#4f81bd" fill-rule="evenodd" stroke="#4f81bd" stroke-width=".2pt" d="M.98 0c0 .552-.448 1-1 1s-1-.448-1-1 .448-1 1-1 1 .448 1 1z"/>
+    </marker>
+    <marker id="i" orient="auto" overflow="visible">
+      <path fill="#4f81bd" fill-rule="evenodd" stroke="#4f81bd" stroke-width=".2pt" d="M.98 0c0 .552-.448 1-1 1s-1-.448-1-1 .448-1 1-1 1 .448 1 1z"/>
+    </marker>
+    <marker id="j" orient="auto" overflow="visible">
+      <path fill="#c0504d" fill-rule="evenodd" stroke="#c0504d" stroke-width=".2pt" d="M.98 0c0 .552-.448 1-1 1s-1-.448-1-1 .448-1 1-1 1 .448 1 1z"/>
+    </marker>
+    <marker id="k" orient="auto" overflow="visible">
+      <path fill="#c0504d" fill-rule="evenodd" stroke="#c0504d" stroke-width=".2pt" d="M.98 0c0 .552-.448 1-1 1s-1-.448-1-1 .448-1 1-1 1 .448 1 1z"/>
+    </marker>
+    <marker id="l" orient="auto" overflow="visible">
+      <path fill="#c0504d" fill-rule="evenodd" stroke="#c0504d" stroke-width=".2pt" d="M.98 0c0 .552-.448 1-1 1s-1-.448-1-1 .448-1 1-1 1 .448 1 1z"/>
+    </marker>
+    <marker id="m" orient="auto" overflow="visible">
+      <path fill="#4f81bd" fill-rule="evenodd" stroke="#4f81bd" stroke-width=".2pt" d="M.98 0c0 .552-.448 1-1 1s-1-.448-1-1 .448-1 1-1 1 .448 1 1z"/>
+    </marker>
+    <marker id="n" orient="auto" overflow="visible">
+      <path fill="#c0504d" fill-rule="evenodd" stroke="#c0504d" stroke-width=".2pt" d="M.98 0c0 .552-.448 1-1 1s-1-.448-1-1 .448-1 1-1 1 .448 1 1z"/>
+    </marker>
+  </defs>
+  <path fill="#fff" d="M0 0h800v560H0z" color="#000" overflow="visible"/>
+  <g transform="translate(936.362 -103.63) scale(.70796)">
+    <path id="a" fill="none" stroke="#ccc" stroke-width="2.82500005" d="M-1217.8572 318.46521h920.00005" color="#000" stroke-linecap="round" stroke-linejoin="round" overflow="visible"/>
+    <use id="b" width="744.09448" height="1052.3622" transform="translate(0 82.664)" xlink:href="#a"/>
+    <use id="c" width="744.09448" height="1052.3622" transform="translate(0 82.664)" xlink:href="#b"/>
+    <use id="d" width="744.09448" height="1052.3622" transform="translate(0 82.664)" xlink:href="#c"/>
+    <use id="e" width="744.09448" height="1052.3622" transform="translate(0 82.664)" xlink:href="#d"/>
+    <use id="f" width="744.09448" height="1052.3622" transform="translate(0 82.664)" xlink:href="#e"/>
+    <use width="744.09448" height="1052.3622" transform="translate(0 82.664)" xlink:href="#f"/>
+    <path fill="none" stroke="#4f81bd" stroke-width="8.47500038" d="M-1219.5067 598.55115l308.3491-296.73231 307.59145 363.65492 307.08638-50.50763" overflow="visible" color="#000" stroke-linejoin="round" marker-start="url(#g)" marker-mid="url(#h)" marker-end="url(#i)" stroke-linecap="round"/>
+    <path fill="none" stroke="#c0504d" stroke-width="8.47500038" d="M-1218.4405 697.5461l307.2829-197.73736 307.33891 65.78619 308.34907-16.28871" overflow="visible" color="#000" stroke-linejoin="round" marker-start="url(#j)" marker-mid="url(#k)" marker-end="url(#l)" stroke-linecap="round"/>
+    <text x="-282.23886" y="545.91382" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-282.23886" y="545.91382" style="-inkscape-font-specification:Arial" font-style="oblique">11.2</tspan>
+    </text>
+    <text x="-284.7337" y="622.1803" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-284.7337" y="622.1803" style="-inkscape-font-specification:Arial" font-style="oblique">10.8</tspan>
+    </text>
+    <text x="-684.75891" y="686.05408" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-684.75891" y="686.05408" style="-inkscape-font-specification:Arial" font-style="oblique">10.5</tspan>
+    </text>
+    <text x="-638.797" y="549.68347" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-638.797" y="549.68347" style="-inkscape-font-specification:Arial" font-style="oblique">11.1</tspan>
+    </text>
+    <text x="-934.34131" y="542.57086" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-934.34131" y="542.57086" style="-inkscape-font-specification:Arial" font-style="oblique">11.5</tspan>
+    </text>
+    <text x="-989.82495" y="310.27737" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-989.82495" y="310.27737" style="-inkscape-font-specification:Arial" font-style="oblique">12.7</tspan>
+    </text>
+    <text x="-1298.9316" y="607.26221" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-1298.9316" y="607.26221" style="-inkscape-font-specification:Arial" font-style="oblique">10.9</tspan>
+    </text>
+    <text x="-1298.9316" y="708.27747" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-1298.9316" y="708.27747" style="-inkscape-font-specification:Arial" font-style="oblique">10.3</tspan>
+    </text>
+    <text x="-887.97461" y="190.72038" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial" font-size="21.47842598" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-887.97461" y="190.72038" style="-inkscape-font-specification:Arial">Time 1 = between t1 and t2</tspan><tspan x="-887.97461" y="222.07889" style="-inkscape-font-specification:Arial">Time 2 = between t2 and t3</tspan><tspan x="-887.97461" y="253.43739" style="-inkscape-font-specification:Arial">Time 3 = between t3 and t4</tspan>
+    </text>
+    <g color="#000">
+      <path fill="none" stroke="#4f81bd" stroke-width="8.47500038" d="M-860.34844 895.76203h-29.29442-29.29442" stroke-linecap="square" stroke-linejoin="round" marker-mid="url(#m)" overflow="visible" transform="translate(-5.623)"/>
+      <text x="-849.10681" y="903.59003" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="22.23548317" font-style="italic" overflow="visible" font-family="Arial" transform="translate(-5.623)">
+        <tspan x="-849.10681" y="903.59003" style="-inkscape-font-specification:Arial" font-style="oblique">Nurses</tspan>
+      </text>
+      <path fill="none" stroke="#c0504d" stroke-width="8.47500038" d="M-696.24766 895.76203h-29.29442-29.29442" stroke-linecap="square" stroke-linejoin="round" marker-mid="url(#n)" overflow="visible" transform="translate(7.004)"/>
+      <text x="-684.91394" y="903.59003" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="22.23548317" font-style="italic" overflow="visible" font-family="Arial" transform="translate(7.004)">
+        <tspan x="-684.91394" y="903.59003" style="-inkscape-font-specification:Arial" font-style="oblique">Teachers</tspan>
+      </text>
+    </g>
+    <text x="-1297.2791" y="851.08234" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-1297.2791" y="851.08234" style="-inkscape-font-specification:Arial" font-style="oblique">GHQ-12 t1</tspan>
+    </text>
+    <text x="-993.93988" y="851.08234" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-993.93988" y="851.08234" style="-inkscape-font-specification:Arial" font-style="oblique">GHQ-12 t2</tspan>
+    </text>
+    <text x="-688.06067" y="851.08234" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-688.06067" y="851.08234" style="-inkscape-font-specification:Arial" font-style="oblique">GHQ-12 t3</tspan>
+    </text>
+    <text x="-378.02817" y="851.08234" stroke-width="8" style="text-align:start;line-height:146.00000381%;-inkscape-font-specification:Arial Italic" font-size="32.54420853" font-style="italic" color="#000" overflow="visible" font-family="Arial">
+      <tspan x="-378.02817" y="851.08234" style="-inkscape-font-specification:Arial" font-style="oblique">GHQ-12 t4</tspan>
+    </text>
+  </g>
+</svg>
